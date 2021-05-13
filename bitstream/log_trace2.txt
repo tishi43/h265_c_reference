@@ -1,0 +1,3211 @@
+current POC 1
+dpb[0] poc 0
+dpbs 1
+rpl[0] poc 0 dpb[0]
+current POC 2
+dpb[0] poc 0
+dpb[1] poc 1
+dpbs 2
+rpl[0] poc 1 dpb[1]
+rpl[1] poc 0 dpb[0]
+current POC 3
+dpb[0] poc 0
+dpb[1] poc 1
+dpb[2] poc 2
+dpbs 3
+rpl[0] poc 2 dpb[2]
+rpl[1] poc 1 dpb[1]
+rpl[2] poc 0 dpb[0]
+current POC 4
+dpb[0] poc 0
+dpb[1] poc 1
+dpb[2] poc 2
+dpb[3] poc 3
+dpbs 4
+rpl[0] poc 3 dpb[3]
+rpl[1] poc 2 dpb[2]
+rpl[2] poc 1 dpb[1]
+rpl[3] poc 0 dpb[0]
+current POC 5
+dpb[0] poc 0
+dpb[1] poc 1
+dpb[2] poc 2
+dpb[3] poc 3
+dpb[4] poc 4
+dpbs 5
+rpl[0] poc 4 dpb[4]
+rpl[1] poc 3 dpb[3]
+rpl[2] poc 2 dpb[2]
+rpl[3] poc 0 dpb[0]
+current POC 6
+dpb[0] poc 0
+dpb[1] poc 1
+dpb[2] poc 2
+dpb[3] poc 3
+dpb[4] poc 4
+dpb[5] poc 5
+dpbs 6
+rpl[0] poc 5 dpb[5]
+rpl[1] poc 4 dpb[4]
+rpl[2] poc 3 dpb[3]
+rpl[3] poc 0 dpb[0]
+free dpb[1]
+current POC 7
+dpb[0] poc 0
+dpb[1] poc 6
+dpb[2] poc 2
+dpb[3] poc 3
+dpb[4] poc 4
+dpb[5] poc 5
+dpbs 6
+rpl[0] poc 6 dpb[1]
+rpl[1] poc 5 dpb[5]
+rpl[2] poc 4 dpb[4]
+rpl[3] poc 0 dpb[0]
+free dpb[2]
+current POC 8
+dpb[0] poc 0
+dpb[1] poc 6
+dpb[2] poc 7
+dpb[3] poc 3
+dpb[4] poc 4
+dpb[5] poc 5
+dpbs 6
+rpl[0] poc 7 dpb[2]
+rpl[1] poc 6 dpb[1]
+rpl[2] poc 4 dpb[4]
+rpl[3] poc 0 dpb[0]
+free dpb[3]
+current POC 9
+dpb[0] poc 0
+dpb[1] poc 6
+dpb[2] poc 7
+dpb[3] poc 8
+dpb[4] poc 4
+dpb[5] poc 5
+dpbs 6
+rpl[0] poc 8 dpb[3]
+rpl[1] poc 7 dpb[2]
+rpl[2] poc 4 dpb[4]
+rpl[3] poc 0 dpb[0]
+free dpb[5]
+current POC 10
+dpb[0] poc 0
+dpb[1] poc 6
+dpb[2] poc 7
+dpb[3] poc 8
+dpb[4] poc 4
+dpb[5] poc 9
+dpbs 6
+rpl[0] poc 9 dpb[5]
+rpl[1] poc 8 dpb[3]
+rpl[2] poc 4 dpb[4]
+rpl[3] poc 0 dpb[0]
+free dpb[1]
+current POC 11
+dpb[0] poc 0
+dpb[1] poc 10
+dpb[2] poc 7
+dpb[3] poc 8
+dpb[4] poc 4
+dpb[5] poc 9
+dpbs 6
+rpl[0] poc 10 dpb[1]
+rpl[1] poc 8 dpb[3]
+rpl[2] poc 4 dpb[4]
+rpl[3] poc 0 dpb[0]
+free dpb[2]
+current POC 12
+dpb[0] poc 0
+dpb[1] poc 10
+dpb[2] poc 11
+dpb[3] poc 8
+dpb[4] poc 4
+dpb[5] poc 9
+dpbs 6
+rpl[0] poc 11 dpb[2]
+rpl[1] poc 8 dpb[3]
+rpl[2] poc 4 dpb[4]
+rpl[3] poc 0 dpb[0]
+free dpb[5]
+current POC 13
+dpb[0] poc 0
+dpb[1] poc 10
+dpb[2] poc 11
+dpb[3] poc 8
+dpb[4] poc 4
+dpb[5] poc 12
+dpbs 6
+rpl[0] poc 12 dpb[5]
+rpl[1] poc 8 dpb[3]
+rpl[2] poc 4 dpb[4]
+rpl[3] poc 0 dpb[0]
+free dpb[1]
+current POC 14
+dpb[0] poc 0
+dpb[1] poc 13
+dpb[2] poc 11
+dpb[3] poc 8
+dpb[4] poc 4
+dpb[5] poc 12
+dpbs 6
+rpl[0] poc 13 dpb[1]
+rpl[1] poc 12 dpb[5]
+rpl[2] poc 8 dpb[3]
+rpl[3] poc 4 dpb[4]
+free dpb[0]
+current POC 15
+dpb[0] poc 14
+dpb[1] poc 13
+dpb[2] poc 11
+dpb[3] poc 8
+dpb[4] poc 4
+dpb[5] poc 12
+dpbs 6
+rpl[0] poc 14 dpb[0]
+rpl[1] poc 12 dpb[5]
+rpl[2] poc 8 dpb[3]
+rpl[3] poc 4 dpb[4]
+free dpb[2]
+current POC 16
+dpb[0] poc 14
+dpb[1] poc 13
+dpb[2] poc 15
+dpb[3] poc 8
+dpb[4] poc 4
+dpb[5] poc 12
+dpbs 6
+rpl[0] poc 15 dpb[2]
+rpl[1] poc 12 dpb[5]
+rpl[2] poc 8 dpb[3]
+rpl[3] poc 4 dpb[4]
+free dpb[1]
+current POC 17
+dpb[0] poc 14
+dpb[1] poc 16
+dpb[2] poc 15
+dpb[3] poc 8
+dpb[4] poc 4
+dpb[5] poc 12
+dpbs 6
+rpl[0] poc 16 dpb[1]
+rpl[1] poc 12 dpb[5]
+rpl[2] poc 8 dpb[3]
+rpl[3] poc 4 dpb[4]
+free dpb[0]
+current POC 18
+dpb[0] poc 17
+dpb[1] poc 16
+dpb[2] poc 15
+dpb[3] poc 8
+dpb[4] poc 4
+dpb[5] poc 12
+dpbs 6
+rpl[0] poc 17 dpb[0]
+rpl[1] poc 16 dpb[1]
+rpl[2] poc 12 dpb[5]
+rpl[3] poc 8 dpb[3]
+free dpb[4]
+current POC 19
+dpb[0] poc 17
+dpb[1] poc 16
+dpb[2] poc 15
+dpb[3] poc 8
+dpb[4] poc 18
+dpb[5] poc 12
+dpbs 6
+rpl[0] poc 18 dpb[4]
+rpl[1] poc 16 dpb[1]
+rpl[2] poc 12 dpb[5]
+rpl[3] poc 8 dpb[3]
+free dpb[2]
+current POC 20
+dpb[0] poc 17
+dpb[1] poc 16
+dpb[2] poc 19
+dpb[3] poc 8
+dpb[4] poc 18
+dpb[5] poc 12
+dpbs 6
+rpl[0] poc 19 dpb[2]
+rpl[1] poc 16 dpb[1]
+rpl[2] poc 12 dpb[5]
+rpl[3] poc 8 dpb[3]
+free dpb[0]
+current POC 21
+dpb[0] poc 20
+dpb[1] poc 16
+dpb[2] poc 19
+dpb[3] poc 8
+dpb[4] poc 18
+dpb[5] poc 12
+dpbs 6
+rpl[0] poc 20 dpb[0]
+rpl[1] poc 16 dpb[1]
+rpl[2] poc 12 dpb[5]
+rpl[3] poc 8 dpb[3]
+free dpb[4]
+current POC 22
+dpb[0] poc 20
+dpb[1] poc 16
+dpb[2] poc 19
+dpb[3] poc 8
+dpb[4] poc 21
+dpb[5] poc 12
+dpbs 6
+rpl[0] poc 21 dpb[4]
+rpl[1] poc 20 dpb[0]
+rpl[2] poc 16 dpb[1]
+rpl[3] poc 12 dpb[5]
+free dpb[3]
+current POC 23
+dpb[0] poc 20
+dpb[1] poc 16
+dpb[2] poc 19
+dpb[3] poc 22
+dpb[4] poc 21
+dpb[5] poc 12
+dpbs 6
+rpl[0] poc 22 dpb[3]
+rpl[1] poc 20 dpb[0]
+rpl[2] poc 16 dpb[1]
+rpl[3] poc 12 dpb[5]
+free dpb[2]
+current POC 24
+dpb[0] poc 20
+dpb[1] poc 16
+dpb[2] poc 23
+dpb[3] poc 22
+dpb[4] poc 21
+dpb[5] poc 12
+dpbs 6
+rpl[0] poc 23 dpb[2]
+rpl[1] poc 20 dpb[0]
+rpl[2] poc 16 dpb[1]
+rpl[3] poc 12 dpb[5]
+free dpb[4]
+current POC 25
+dpb[0] poc 20
+dpb[1] poc 16
+dpb[2] poc 23
+dpb[3] poc 22
+dpb[4] poc 24
+dpb[5] poc 12
+dpbs 6
+rpl[0] poc 24 dpb[4]
+rpl[1] poc 20 dpb[0]
+rpl[2] poc 16 dpb[1]
+rpl[3] poc 12 dpb[5]
+free dpb[3]
+current POC 26
+dpb[0] poc 20
+dpb[1] poc 16
+dpb[2] poc 23
+dpb[3] poc 25
+dpb[4] poc 24
+dpb[5] poc 12
+dpbs 6
+rpl[0] poc 25 dpb[3]
+rpl[1] poc 24 dpb[4]
+rpl[2] poc 20 dpb[0]
+rpl[3] poc 16 dpb[1]
+free dpb[5]
+current POC 27
+dpb[0] poc 20
+dpb[1] poc 16
+dpb[2] poc 23
+dpb[3] poc 25
+dpb[4] poc 24
+dpb[5] poc 26
+dpbs 6
+rpl[0] poc 26 dpb[5]
+rpl[1] poc 24 dpb[4]
+rpl[2] poc 20 dpb[0]
+rpl[3] poc 16 dpb[1]
+free dpb[2]
+current POC 28
+dpb[0] poc 20
+dpb[1] poc 16
+dpb[2] poc 27
+dpb[3] poc 25
+dpb[4] poc 24
+dpb[5] poc 26
+dpbs 6
+rpl[0] poc 27 dpb[2]
+rpl[1] poc 24 dpb[4]
+rpl[2] poc 20 dpb[0]
+rpl[3] poc 16 dpb[1]
+free dpb[3]
+current POC 29
+dpb[0] poc 20
+dpb[1] poc 16
+dpb[2] poc 27
+dpb[3] poc 28
+dpb[4] poc 24
+dpb[5] poc 26
+dpbs 6
+rpl[0] poc 28 dpb[3]
+rpl[1] poc 24 dpb[4]
+rpl[2] poc 20 dpb[0]
+rpl[3] poc 16 dpb[1]
+free dpb[5]
+current POC 30
+dpb[0] poc 20
+dpb[1] poc 16
+dpb[2] poc 27
+dpb[3] poc 28
+dpb[4] poc 24
+dpb[5] poc 29
+dpbs 6
+rpl[0] poc 29 dpb[5]
+rpl[1] poc 28 dpb[3]
+rpl[2] poc 24 dpb[4]
+rpl[3] poc 20 dpb[0]
+free dpb[1]
+current POC 31
+dpb[0] poc 20
+dpb[1] poc 30
+dpb[2] poc 27
+dpb[3] poc 28
+dpb[4] poc 24
+dpb[5] poc 29
+dpbs 6
+rpl[0] poc 30 dpb[1]
+rpl[1] poc 28 dpb[3]
+rpl[2] poc 24 dpb[4]
+rpl[3] poc 20 dpb[0]
+free dpb[2]
+current POC 32
+dpb[0] poc 20
+dpb[1] poc 30
+dpb[2] poc 31
+dpb[3] poc 28
+dpb[4] poc 24
+dpb[5] poc 29
+dpbs 6
+rpl[0] poc 31 dpb[2]
+rpl[1] poc 28 dpb[3]
+rpl[2] poc 24 dpb[4]
+rpl[3] poc 20 dpb[0]
+free dpb[5]
+current POC 33
+dpb[0] poc 20
+dpb[1] poc 30
+dpb[2] poc 31
+dpb[3] poc 28
+dpb[4] poc 24
+dpb[5] poc 32
+dpbs 6
+rpl[0] poc 32 dpb[5]
+rpl[1] poc 28 dpb[3]
+rpl[2] poc 24 dpb[4]
+rpl[3] poc 20 dpb[0]
+free dpb[1]
+current POC 34
+dpb[0] poc 20
+dpb[1] poc 33
+dpb[2] poc 31
+dpb[3] poc 28
+dpb[4] poc 24
+dpb[5] poc 32
+dpbs 6
+rpl[0] poc 33 dpb[1]
+rpl[1] poc 32 dpb[5]
+rpl[2] poc 28 dpb[3]
+rpl[3] poc 24 dpb[4]
+free dpb[0]
+current POC 35
+dpb[0] poc 34
+dpb[1] poc 33
+dpb[2] poc 31
+dpb[3] poc 28
+dpb[4] poc 24
+dpb[5] poc 32
+dpbs 6
+rpl[0] poc 34 dpb[0]
+rpl[1] poc 32 dpb[5]
+rpl[2] poc 28 dpb[3]
+rpl[3] poc 24 dpb[4]
+free dpb[2]
+current POC 36
+dpb[0] poc 34
+dpb[1] poc 33
+dpb[2] poc 35
+dpb[3] poc 28
+dpb[4] poc 24
+dpb[5] poc 32
+dpbs 6
+rpl[0] poc 35 dpb[2]
+rpl[1] poc 32 dpb[5]
+rpl[2] poc 28 dpb[3]
+rpl[3] poc 24 dpb[4]
+free dpb[1]
+current POC 37
+dpb[0] poc 34
+dpb[1] poc 36
+dpb[2] poc 35
+dpb[3] poc 28
+dpb[4] poc 24
+dpb[5] poc 32
+dpbs 6
+rpl[0] poc 36 dpb[1]
+rpl[1] poc 32 dpb[5]
+rpl[2] poc 28 dpb[3]
+rpl[3] poc 24 dpb[4]
+free dpb[0]
+current POC 38
+dpb[0] poc 37
+dpb[1] poc 36
+dpb[2] poc 35
+dpb[3] poc 28
+dpb[4] poc 24
+dpb[5] poc 32
+dpbs 6
+rpl[0] poc 37 dpb[0]
+rpl[1] poc 36 dpb[1]
+rpl[2] poc 32 dpb[5]
+rpl[3] poc 28 dpb[3]
+free dpb[4]
+current POC 39
+dpb[0] poc 37
+dpb[1] poc 36
+dpb[2] poc 35
+dpb[3] poc 28
+dpb[4] poc 38
+dpb[5] poc 32
+dpbs 6
+rpl[0] poc 38 dpb[4]
+rpl[1] poc 36 dpb[1]
+rpl[2] poc 32 dpb[5]
+rpl[3] poc 28 dpb[3]
+free dpb[2]
+current POC 40
+dpb[0] poc 37
+dpb[1] poc 36
+dpb[2] poc 39
+dpb[3] poc 28
+dpb[4] poc 38
+dpb[5] poc 32
+dpbs 6
+rpl[0] poc 39 dpb[2]
+rpl[1] poc 36 dpb[1]
+rpl[2] poc 32 dpb[5]
+rpl[3] poc 28 dpb[3]
+free dpb[0]
+current POC 41
+dpb[0] poc 40
+dpb[1] poc 36
+dpb[2] poc 39
+dpb[3] poc 28
+dpb[4] poc 38
+dpb[5] poc 32
+dpbs 6
+rpl[0] poc 40 dpb[0]
+rpl[1] poc 36 dpb[1]
+rpl[2] poc 32 dpb[5]
+rpl[3] poc 28 dpb[3]
+free dpb[4]
+current POC 42
+dpb[0] poc 40
+dpb[1] poc 36
+dpb[2] poc 39
+dpb[3] poc 28
+dpb[4] poc 41
+dpb[5] poc 32
+dpbs 6
+rpl[0] poc 41 dpb[4]
+rpl[1] poc 40 dpb[0]
+rpl[2] poc 36 dpb[1]
+rpl[3] poc 32 dpb[5]
+free dpb[3]
+current POC 43
+dpb[0] poc 40
+dpb[1] poc 36
+dpb[2] poc 39
+dpb[3] poc 42
+dpb[4] poc 41
+dpb[5] poc 32
+dpbs 6
+rpl[0] poc 42 dpb[3]
+rpl[1] poc 40 dpb[0]
+rpl[2] poc 36 dpb[1]
+rpl[3] poc 32 dpb[5]
+free dpb[2]
+current POC 44
+dpb[0] poc 40
+dpb[1] poc 36
+dpb[2] poc 43
+dpb[3] poc 42
+dpb[4] poc 41
+dpb[5] poc 32
+dpbs 6
+rpl[0] poc 43 dpb[2]
+rpl[1] poc 40 dpb[0]
+rpl[2] poc 36 dpb[1]
+rpl[3] poc 32 dpb[5]
+free dpb[4]
+current POC 45
+dpb[0] poc 40
+dpb[1] poc 36
+dpb[2] poc 43
+dpb[3] poc 42
+dpb[4] poc 44
+dpb[5] poc 32
+dpbs 6
+rpl[0] poc 44 dpb[4]
+rpl[1] poc 40 dpb[0]
+rpl[2] poc 36 dpb[1]
+rpl[3] poc 32 dpb[5]
+free dpb[3]
+current POC 46
+dpb[0] poc 40
+dpb[1] poc 36
+dpb[2] poc 43
+dpb[3] poc 45
+dpb[4] poc 44
+dpb[5] poc 32
+dpbs 6
+rpl[0] poc 45 dpb[3]
+rpl[1] poc 44 dpb[4]
+rpl[2] poc 40 dpb[0]
+rpl[3] poc 36 dpb[1]
+free dpb[5]
+current POC 47
+dpb[0] poc 40
+dpb[1] poc 36
+dpb[2] poc 43
+dpb[3] poc 45
+dpb[4] poc 44
+dpb[5] poc 46
+dpbs 6
+rpl[0] poc 46 dpb[5]
+rpl[1] poc 44 dpb[4]
+rpl[2] poc 40 dpb[0]
+rpl[3] poc 36 dpb[1]
+free dpb[2]
+current POC 48
+dpb[0] poc 40
+dpb[1] poc 36
+dpb[2] poc 47
+dpb[3] poc 45
+dpb[4] poc 44
+dpb[5] poc 46
+dpbs 6
+rpl[0] poc 47 dpb[2]
+rpl[1] poc 44 dpb[4]
+rpl[2] poc 40 dpb[0]
+rpl[3] poc 36 dpb[1]
+free dpb[3]
+current POC 49
+dpb[0] poc 40
+dpb[1] poc 36
+dpb[2] poc 47
+dpb[3] poc 48
+dpb[4] poc 44
+dpb[5] poc 46
+dpbs 6
+rpl[0] poc 48 dpb[3]
+rpl[1] poc 44 dpb[4]
+rpl[2] poc 40 dpb[0]
+rpl[3] poc 36 dpb[1]
+free dpb[5]
+current POC 50
+dpb[0] poc 40
+dpb[1] poc 36
+dpb[2] poc 47
+dpb[3] poc 48
+dpb[4] poc 44
+dpb[5] poc 49
+dpbs 6
+rpl[0] poc 49 dpb[5]
+rpl[1] poc 48 dpb[3]
+rpl[2] poc 44 dpb[4]
+rpl[3] poc 40 dpb[0]
+free dpb[1]
+current POC 51
+dpb[0] poc 40
+dpb[1] poc 50
+dpb[2] poc 47
+dpb[3] poc 48
+dpb[4] poc 44
+dpb[5] poc 49
+dpbs 6
+rpl[0] poc 50 dpb[1]
+rpl[1] poc 48 dpb[3]
+rpl[2] poc 44 dpb[4]
+rpl[3] poc 40 dpb[0]
+free dpb[2]
+current POC 52
+dpb[0] poc 40
+dpb[1] poc 50
+dpb[2] poc 51
+dpb[3] poc 48
+dpb[4] poc 44
+dpb[5] poc 49
+dpbs 6
+rpl[0] poc 51 dpb[2]
+rpl[1] poc 48 dpb[3]
+rpl[2] poc 44 dpb[4]
+rpl[3] poc 40 dpb[0]
+free dpb[5]
+current POC 53
+dpb[0] poc 40
+dpb[1] poc 50
+dpb[2] poc 51
+dpb[3] poc 48
+dpb[4] poc 44
+dpb[5] poc 52
+dpbs 6
+rpl[0] poc 52 dpb[5]
+rpl[1] poc 48 dpb[3]
+rpl[2] poc 44 dpb[4]
+rpl[3] poc 40 dpb[0]
+free dpb[1]
+current POC 54
+dpb[0] poc 40
+dpb[1] poc 53
+dpb[2] poc 51
+dpb[3] poc 48
+dpb[4] poc 44
+dpb[5] poc 52
+dpbs 6
+rpl[0] poc 53 dpb[1]
+rpl[1] poc 52 dpb[5]
+rpl[2] poc 48 dpb[3]
+rpl[3] poc 44 dpb[4]
+free dpb[0]
+current POC 55
+dpb[0] poc 54
+dpb[1] poc 53
+dpb[2] poc 51
+dpb[3] poc 48
+dpb[4] poc 44
+dpb[5] poc 52
+dpbs 6
+rpl[0] poc 54 dpb[0]
+rpl[1] poc 52 dpb[5]
+rpl[2] poc 48 dpb[3]
+rpl[3] poc 44 dpb[4]
+free dpb[2]
+current POC 56
+dpb[0] poc 54
+dpb[1] poc 53
+dpb[2] poc 55
+dpb[3] poc 48
+dpb[4] poc 44
+dpb[5] poc 52
+dpbs 6
+rpl[0] poc 55 dpb[2]
+rpl[1] poc 52 dpb[5]
+rpl[2] poc 48 dpb[3]
+rpl[3] poc 44 dpb[4]
+free dpb[1]
+current POC 57
+dpb[0] poc 54
+dpb[1] poc 56
+dpb[2] poc 55
+dpb[3] poc 48
+dpb[4] poc 44
+dpb[5] poc 52
+dpbs 6
+rpl[0] poc 56 dpb[1]
+rpl[1] poc 52 dpb[5]
+rpl[2] poc 48 dpb[3]
+rpl[3] poc 44 dpb[4]
+free dpb[0]
+current POC 58
+dpb[0] poc 57
+dpb[1] poc 56
+dpb[2] poc 55
+dpb[3] poc 48
+dpb[4] poc 44
+dpb[5] poc 52
+dpbs 6
+rpl[0] poc 57 dpb[0]
+rpl[1] poc 56 dpb[1]
+rpl[2] poc 52 dpb[5]
+rpl[3] poc 48 dpb[3]
+free dpb[4]
+current POC 59
+dpb[0] poc 57
+dpb[1] poc 56
+dpb[2] poc 55
+dpb[3] poc 48
+dpb[4] poc 58
+dpb[5] poc 52
+dpbs 6
+rpl[0] poc 58 dpb[4]
+rpl[1] poc 56 dpb[1]
+rpl[2] poc 52 dpb[5]
+rpl[3] poc 48 dpb[3]
+free dpb[2]
+current POC 60
+dpb[0] poc 57
+dpb[1] poc 56
+dpb[2] poc 59
+dpb[3] poc 48
+dpb[4] poc 58
+dpb[5] poc 52
+dpbs 6
+rpl[0] poc 59 dpb[2]
+rpl[1] poc 56 dpb[1]
+rpl[2] poc 52 dpb[5]
+rpl[3] poc 48 dpb[3]
+free dpb[0]
+current POC 61
+dpb[0] poc 60
+dpb[1] poc 56
+dpb[2] poc 59
+dpb[3] poc 48
+dpb[4] poc 58
+dpb[5] poc 52
+dpbs 6
+rpl[0] poc 60 dpb[0]
+rpl[1] poc 56 dpb[1]
+rpl[2] poc 52 dpb[5]
+rpl[3] poc 48 dpb[3]
+free dpb[4]
+current POC 62
+dpb[0] poc 60
+dpb[1] poc 56
+dpb[2] poc 59
+dpb[3] poc 48
+dpb[4] poc 61
+dpb[5] poc 52
+dpbs 6
+rpl[0] poc 61 dpb[4]
+rpl[1] poc 60 dpb[0]
+rpl[2] poc 56 dpb[1]
+rpl[3] poc 52 dpb[5]
+free dpb[3]
+current POC 63
+dpb[0] poc 60
+dpb[1] poc 56
+dpb[2] poc 59
+dpb[3] poc 62
+dpb[4] poc 61
+dpb[5] poc 52
+dpbs 6
+rpl[0] poc 62 dpb[3]
+rpl[1] poc 60 dpb[0]
+rpl[2] poc 56 dpb[1]
+rpl[3] poc 52 dpb[5]
+free dpb[2]
+current POC 64
+dpb[0] poc 60
+dpb[1] poc 56
+dpb[2] poc 63
+dpb[3] poc 62
+dpb[4] poc 61
+dpb[5] poc 52
+dpbs 6
+rpl[0] poc 63 dpb[2]
+rpl[1] poc 60 dpb[0]
+rpl[2] poc 56 dpb[1]
+rpl[3] poc 52 dpb[5]
+free dpb[4]
+current POC 65
+dpb[0] poc 60
+dpb[1] poc 56
+dpb[2] poc 63
+dpb[3] poc 62
+dpb[4] poc 64
+dpb[5] poc 52
+dpbs 6
+rpl[0] poc 64 dpb[4]
+rpl[1] poc 60 dpb[0]
+rpl[2] poc 56 dpb[1]
+rpl[3] poc 52 dpb[5]
+free dpb[3]
+current POC 66
+dpb[0] poc 60
+dpb[1] poc 56
+dpb[2] poc 63
+dpb[3] poc 65
+dpb[4] poc 64
+dpb[5] poc 52
+dpbs 6
+rpl[0] poc 65 dpb[3]
+rpl[1] poc 64 dpb[4]
+rpl[2] poc 60 dpb[0]
+rpl[3] poc 56 dpb[1]
+free dpb[5]
+current POC 67
+dpb[0] poc 60
+dpb[1] poc 56
+dpb[2] poc 63
+dpb[3] poc 65
+dpb[4] poc 64
+dpb[5] poc 66
+dpbs 6
+rpl[0] poc 66 dpb[5]
+rpl[1] poc 64 dpb[4]
+rpl[2] poc 60 dpb[0]
+rpl[3] poc 56 dpb[1]
+free dpb[2]
+current POC 68
+dpb[0] poc 60
+dpb[1] poc 56
+dpb[2] poc 67
+dpb[3] poc 65
+dpb[4] poc 64
+dpb[5] poc 66
+dpbs 6
+rpl[0] poc 67 dpb[2]
+rpl[1] poc 64 dpb[4]
+rpl[2] poc 60 dpb[0]
+rpl[3] poc 56 dpb[1]
+free dpb[3]
+current POC 69
+dpb[0] poc 60
+dpb[1] poc 56
+dpb[2] poc 67
+dpb[3] poc 68
+dpb[4] poc 64
+dpb[5] poc 66
+dpbs 6
+rpl[0] poc 68 dpb[3]
+rpl[1] poc 64 dpb[4]
+rpl[2] poc 60 dpb[0]
+rpl[3] poc 56 dpb[1]
+free dpb[5]
+current POC 70
+dpb[0] poc 60
+dpb[1] poc 56
+dpb[2] poc 67
+dpb[3] poc 68
+dpb[4] poc 64
+dpb[5] poc 69
+dpbs 6
+rpl[0] poc 69 dpb[5]
+rpl[1] poc 68 dpb[3]
+rpl[2] poc 64 dpb[4]
+rpl[3] poc 60 dpb[0]
+free dpb[1]
+current POC 71
+dpb[0] poc 60
+dpb[1] poc 70
+dpb[2] poc 67
+dpb[3] poc 68
+dpb[4] poc 64
+dpb[5] poc 69
+dpbs 6
+rpl[0] poc 70 dpb[1]
+rpl[1] poc 68 dpb[3]
+rpl[2] poc 64 dpb[4]
+rpl[3] poc 60 dpb[0]
+free dpb[2]
+current POC 72
+dpb[0] poc 60
+dpb[1] poc 70
+dpb[2] poc 71
+dpb[3] poc 68
+dpb[4] poc 64
+dpb[5] poc 69
+dpbs 6
+rpl[0] poc 71 dpb[2]
+rpl[1] poc 68 dpb[3]
+rpl[2] poc 64 dpb[4]
+rpl[3] poc 60 dpb[0]
+free dpb[5]
+current POC 73
+dpb[0] poc 60
+dpb[1] poc 70
+dpb[2] poc 71
+dpb[3] poc 68
+dpb[4] poc 64
+dpb[5] poc 72
+dpbs 6
+rpl[0] poc 72 dpb[5]
+rpl[1] poc 68 dpb[3]
+rpl[2] poc 64 dpb[4]
+rpl[3] poc 60 dpb[0]
+free dpb[1]
+current POC 74
+dpb[0] poc 60
+dpb[1] poc 73
+dpb[2] poc 71
+dpb[3] poc 68
+dpb[4] poc 64
+dpb[5] poc 72
+dpbs 6
+rpl[0] poc 73 dpb[1]
+rpl[1] poc 72 dpb[5]
+rpl[2] poc 68 dpb[3]
+rpl[3] poc 64 dpb[4]
+free dpb[0]
+current POC 75
+dpb[0] poc 74
+dpb[1] poc 73
+dpb[2] poc 71
+dpb[3] poc 68
+dpb[4] poc 64
+dpb[5] poc 72
+dpbs 6
+rpl[0] poc 74 dpb[0]
+rpl[1] poc 72 dpb[5]
+rpl[2] poc 68 dpb[3]
+rpl[3] poc 64 dpb[4]
+free dpb[2]
+current POC 76
+dpb[0] poc 74
+dpb[1] poc 73
+dpb[2] poc 75
+dpb[3] poc 68
+dpb[4] poc 64
+dpb[5] poc 72
+dpbs 6
+rpl[0] poc 75 dpb[2]
+rpl[1] poc 72 dpb[5]
+rpl[2] poc 68 dpb[3]
+rpl[3] poc 64 dpb[4]
+free dpb[1]
+current POC 77
+dpb[0] poc 74
+dpb[1] poc 76
+dpb[2] poc 75
+dpb[3] poc 68
+dpb[4] poc 64
+dpb[5] poc 72
+dpbs 6
+rpl[0] poc 76 dpb[1]
+rpl[1] poc 72 dpb[5]
+rpl[2] poc 68 dpb[3]
+rpl[3] poc 64 dpb[4]
+free dpb[0]
+current POC 78
+dpb[0] poc 77
+dpb[1] poc 76
+dpb[2] poc 75
+dpb[3] poc 68
+dpb[4] poc 64
+dpb[5] poc 72
+dpbs 6
+rpl[0] poc 77 dpb[0]
+rpl[1] poc 76 dpb[1]
+rpl[2] poc 72 dpb[5]
+rpl[3] poc 68 dpb[3]
+free dpb[4]
+current POC 79
+dpb[0] poc 77
+dpb[1] poc 76
+dpb[2] poc 75
+dpb[3] poc 68
+dpb[4] poc 78
+dpb[5] poc 72
+dpbs 6
+rpl[0] poc 78 dpb[4]
+rpl[1] poc 76 dpb[1]
+rpl[2] poc 72 dpb[5]
+rpl[3] poc 68 dpb[3]
+free dpb[2]
+current POC 80
+dpb[0] poc 77
+dpb[1] poc 76
+dpb[2] poc 79
+dpb[3] poc 68
+dpb[4] poc 78
+dpb[5] poc 72
+dpbs 6
+rpl[0] poc 79 dpb[2]
+rpl[1] poc 76 dpb[1]
+rpl[2] poc 72 dpb[5]
+rpl[3] poc 68 dpb[3]
+free dpb[0]
+current POC 81
+dpb[0] poc 80
+dpb[1] poc 76
+dpb[2] poc 79
+dpb[3] poc 68
+dpb[4] poc 78
+dpb[5] poc 72
+dpbs 6
+rpl[0] poc 80 dpb[0]
+rpl[1] poc 76 dpb[1]
+rpl[2] poc 72 dpb[5]
+rpl[3] poc 68 dpb[3]
+free dpb[4]
+current POC 82
+dpb[0] poc 80
+dpb[1] poc 76
+dpb[2] poc 79
+dpb[3] poc 68
+dpb[4] poc 81
+dpb[5] poc 72
+dpbs 6
+rpl[0] poc 81 dpb[4]
+rpl[1] poc 80 dpb[0]
+rpl[2] poc 76 dpb[1]
+rpl[3] poc 72 dpb[5]
+free dpb[3]
+current POC 83
+dpb[0] poc 80
+dpb[1] poc 76
+dpb[2] poc 79
+dpb[3] poc 82
+dpb[4] poc 81
+dpb[5] poc 72
+dpbs 6
+rpl[0] poc 82 dpb[3]
+rpl[1] poc 80 dpb[0]
+rpl[2] poc 76 dpb[1]
+rpl[3] poc 72 dpb[5]
+free dpb[2]
+current POC 84
+dpb[0] poc 80
+dpb[1] poc 76
+dpb[2] poc 83
+dpb[3] poc 82
+dpb[4] poc 81
+dpb[5] poc 72
+dpbs 6
+rpl[0] poc 83 dpb[2]
+rpl[1] poc 80 dpb[0]
+rpl[2] poc 76 dpb[1]
+rpl[3] poc 72 dpb[5]
+free dpb[4]
+current POC 85
+dpb[0] poc 80
+dpb[1] poc 76
+dpb[2] poc 83
+dpb[3] poc 82
+dpb[4] poc 84
+dpb[5] poc 72
+dpbs 6
+rpl[0] poc 84 dpb[4]
+rpl[1] poc 80 dpb[0]
+rpl[2] poc 76 dpb[1]
+rpl[3] poc 72 dpb[5]
+free dpb[3]
+current POC 86
+dpb[0] poc 80
+dpb[1] poc 76
+dpb[2] poc 83
+dpb[3] poc 85
+dpb[4] poc 84
+dpb[5] poc 72
+dpbs 6
+rpl[0] poc 85 dpb[3]
+rpl[1] poc 84 dpb[4]
+rpl[2] poc 80 dpb[0]
+rpl[3] poc 76 dpb[1]
+free dpb[5]
+current POC 87
+dpb[0] poc 80
+dpb[1] poc 76
+dpb[2] poc 83
+dpb[3] poc 85
+dpb[4] poc 84
+dpb[5] poc 86
+dpbs 6
+rpl[0] poc 86 dpb[5]
+rpl[1] poc 84 dpb[4]
+rpl[2] poc 80 dpb[0]
+rpl[3] poc 76 dpb[1]
+free dpb[2]
+current POC 88
+dpb[0] poc 80
+dpb[1] poc 76
+dpb[2] poc 87
+dpb[3] poc 85
+dpb[4] poc 84
+dpb[5] poc 86
+dpbs 6
+rpl[0] poc 87 dpb[2]
+rpl[1] poc 84 dpb[4]
+rpl[2] poc 80 dpb[0]
+rpl[3] poc 76 dpb[1]
+free dpb[3]
+current POC 89
+dpb[0] poc 80
+dpb[1] poc 76
+dpb[2] poc 87
+dpb[3] poc 88
+dpb[4] poc 84
+dpb[5] poc 86
+dpbs 6
+rpl[0] poc 88 dpb[3]
+rpl[1] poc 84 dpb[4]
+rpl[2] poc 80 dpb[0]
+rpl[3] poc 76 dpb[1]
+free dpb[5]
+current POC 90
+dpb[0] poc 80
+dpb[1] poc 76
+dpb[2] poc 87
+dpb[3] poc 88
+dpb[4] poc 84
+dpb[5] poc 89
+dpbs 6
+rpl[0] poc 89 dpb[5]
+rpl[1] poc 88 dpb[3]
+rpl[2] poc 84 dpb[4]
+rpl[3] poc 80 dpb[0]
+free dpb[1]
+current POC 91
+dpb[0] poc 80
+dpb[1] poc 90
+dpb[2] poc 87
+dpb[3] poc 88
+dpb[4] poc 84
+dpb[5] poc 89
+dpbs 6
+rpl[0] poc 90 dpb[1]
+rpl[1] poc 88 dpb[3]
+rpl[2] poc 84 dpb[4]
+rpl[3] poc 80 dpb[0]
+free dpb[2]
+current POC 92
+dpb[0] poc 80
+dpb[1] poc 90
+dpb[2] poc 91
+dpb[3] poc 88
+dpb[4] poc 84
+dpb[5] poc 89
+dpbs 6
+rpl[0] poc 91 dpb[2]
+rpl[1] poc 88 dpb[3]
+rpl[2] poc 84 dpb[4]
+rpl[3] poc 80 dpb[0]
+free dpb[5]
+current POC 93
+dpb[0] poc 80
+dpb[1] poc 90
+dpb[2] poc 91
+dpb[3] poc 88
+dpb[4] poc 84
+dpb[5] poc 92
+dpbs 6
+rpl[0] poc 92 dpb[5]
+rpl[1] poc 88 dpb[3]
+rpl[2] poc 84 dpb[4]
+rpl[3] poc 80 dpb[0]
+free dpb[1]
+current POC 94
+dpb[0] poc 80
+dpb[1] poc 93
+dpb[2] poc 91
+dpb[3] poc 88
+dpb[4] poc 84
+dpb[5] poc 92
+dpbs 6
+rpl[0] poc 93 dpb[1]
+rpl[1] poc 92 dpb[5]
+rpl[2] poc 88 dpb[3]
+rpl[3] poc 84 dpb[4]
+free dpb[0]
+current POC 95
+dpb[0] poc 94
+dpb[1] poc 93
+dpb[2] poc 91
+dpb[3] poc 88
+dpb[4] poc 84
+dpb[5] poc 92
+dpbs 6
+rpl[0] poc 94 dpb[0]
+rpl[1] poc 92 dpb[5]
+rpl[2] poc 88 dpb[3]
+rpl[3] poc 84 dpb[4]
+free dpb[2]
+current POC 96
+dpb[0] poc 94
+dpb[1] poc 93
+dpb[2] poc 95
+dpb[3] poc 88
+dpb[4] poc 84
+dpb[5] poc 92
+dpbs 6
+rpl[0] poc 95 dpb[2]
+rpl[1] poc 92 dpb[5]
+rpl[2] poc 88 dpb[3]
+rpl[3] poc 84 dpb[4]
+free dpb[1]
+current POC 97
+dpb[0] poc 94
+dpb[1] poc 96
+dpb[2] poc 95
+dpb[3] poc 88
+dpb[4] poc 84
+dpb[5] poc 92
+dpbs 6
+rpl[0] poc 96 dpb[1]
+rpl[1] poc 92 dpb[5]
+rpl[2] poc 88 dpb[3]
+rpl[3] poc 84 dpb[4]
+free dpb[0]
+current POC 98
+dpb[0] poc 97
+dpb[1] poc 96
+dpb[2] poc 95
+dpb[3] poc 88
+dpb[4] poc 84
+dpb[5] poc 92
+dpbs 6
+rpl[0] poc 97 dpb[0]
+rpl[1] poc 96 dpb[1]
+rpl[2] poc 92 dpb[5]
+rpl[3] poc 88 dpb[3]
+free dpb[4]
+current POC 99
+dpb[0] poc 97
+dpb[1] poc 96
+dpb[2] poc 95
+dpb[3] poc 88
+dpb[4] poc 98
+dpb[5] poc 92
+dpbs 6
+rpl[0] poc 98 dpb[4]
+rpl[1] poc 96 dpb[1]
+rpl[2] poc 92 dpb[5]
+rpl[3] poc 88 dpb[3]
+free dpb[2]
+current POC 100
+dpb[0] poc 97
+dpb[1] poc 96
+dpb[2] poc 99
+dpb[3] poc 88
+dpb[4] poc 98
+dpb[5] poc 92
+dpbs 6
+rpl[0] poc 99 dpb[2]
+rpl[1] poc 96 dpb[1]
+rpl[2] poc 92 dpb[5]
+rpl[3] poc 88 dpb[3]
+free dpb[0]
+current POC 101
+dpb[0] poc 100
+dpb[1] poc 96
+dpb[2] poc 99
+dpb[3] poc 88
+dpb[4] poc 98
+dpb[5] poc 92
+dpbs 6
+rpl[0] poc 100 dpb[0]
+rpl[1] poc 96 dpb[1]
+rpl[2] poc 92 dpb[5]
+rpl[3] poc 88 dpb[3]
+free dpb[4]
+current POC 102
+dpb[0] poc 100
+dpb[1] poc 96
+dpb[2] poc 99
+dpb[3] poc 88
+dpb[4] poc 101
+dpb[5] poc 92
+dpbs 6
+rpl[0] poc 101 dpb[4]
+rpl[1] poc 100 dpb[0]
+rpl[2] poc 96 dpb[1]
+rpl[3] poc 92 dpb[5]
+free dpb[3]
+current POC 103
+dpb[0] poc 100
+dpb[1] poc 96
+dpb[2] poc 99
+dpb[3] poc 102
+dpb[4] poc 101
+dpb[5] poc 92
+dpbs 6
+rpl[0] poc 102 dpb[3]
+rpl[1] poc 100 dpb[0]
+rpl[2] poc 96 dpb[1]
+rpl[3] poc 92 dpb[5]
+free dpb[2]
+current POC 104
+dpb[0] poc 100
+dpb[1] poc 96
+dpb[2] poc 103
+dpb[3] poc 102
+dpb[4] poc 101
+dpb[5] poc 92
+dpbs 6
+rpl[0] poc 103 dpb[2]
+rpl[1] poc 100 dpb[0]
+rpl[2] poc 96 dpb[1]
+rpl[3] poc 92 dpb[5]
+free dpb[4]
+current POC 105
+dpb[0] poc 100
+dpb[1] poc 96
+dpb[2] poc 103
+dpb[3] poc 102
+dpb[4] poc 104
+dpb[5] poc 92
+dpbs 6
+rpl[0] poc 104 dpb[4]
+rpl[1] poc 100 dpb[0]
+rpl[2] poc 96 dpb[1]
+rpl[3] poc 92 dpb[5]
+free dpb[3]
+current POC 106
+dpb[0] poc 100
+dpb[1] poc 96
+dpb[2] poc 103
+dpb[3] poc 105
+dpb[4] poc 104
+dpb[5] poc 92
+dpbs 6
+rpl[0] poc 105 dpb[3]
+rpl[1] poc 104 dpb[4]
+rpl[2] poc 100 dpb[0]
+rpl[3] poc 96 dpb[1]
+free dpb[5]
+current POC 107
+dpb[0] poc 100
+dpb[1] poc 96
+dpb[2] poc 103
+dpb[3] poc 105
+dpb[4] poc 104
+dpb[5] poc 106
+dpbs 6
+rpl[0] poc 106 dpb[5]
+rpl[1] poc 104 dpb[4]
+rpl[2] poc 100 dpb[0]
+rpl[3] poc 96 dpb[1]
+free dpb[2]
+current POC 108
+dpb[0] poc 100
+dpb[1] poc 96
+dpb[2] poc 107
+dpb[3] poc 105
+dpb[4] poc 104
+dpb[5] poc 106
+dpbs 6
+rpl[0] poc 107 dpb[2]
+rpl[1] poc 104 dpb[4]
+rpl[2] poc 100 dpb[0]
+rpl[3] poc 96 dpb[1]
+free dpb[3]
+current POC 109
+dpb[0] poc 100
+dpb[1] poc 96
+dpb[2] poc 107
+dpb[3] poc 108
+dpb[4] poc 104
+dpb[5] poc 106
+dpbs 6
+rpl[0] poc 108 dpb[3]
+rpl[1] poc 104 dpb[4]
+rpl[2] poc 100 dpb[0]
+rpl[3] poc 96 dpb[1]
+free dpb[5]
+current POC 110
+dpb[0] poc 100
+dpb[1] poc 96
+dpb[2] poc 107
+dpb[3] poc 108
+dpb[4] poc 104
+dpb[5] poc 109
+dpbs 6
+rpl[0] poc 109 dpb[5]
+rpl[1] poc 108 dpb[3]
+rpl[2] poc 104 dpb[4]
+rpl[3] poc 100 dpb[0]
+free dpb[1]
+current POC 111
+dpb[0] poc 100
+dpb[1] poc 110
+dpb[2] poc 107
+dpb[3] poc 108
+dpb[4] poc 104
+dpb[5] poc 109
+dpbs 6
+rpl[0] poc 110 dpb[1]
+rpl[1] poc 108 dpb[3]
+rpl[2] poc 104 dpb[4]
+rpl[3] poc 100 dpb[0]
+free dpb[2]
+current POC 112
+dpb[0] poc 100
+dpb[1] poc 110
+dpb[2] poc 111
+dpb[3] poc 108
+dpb[4] poc 104
+dpb[5] poc 109
+dpbs 6
+rpl[0] poc 111 dpb[2]
+rpl[1] poc 108 dpb[3]
+rpl[2] poc 104 dpb[4]
+rpl[3] poc 100 dpb[0]
+free dpb[5]
+current POC 113
+dpb[0] poc 100
+dpb[1] poc 110
+dpb[2] poc 111
+dpb[3] poc 108
+dpb[4] poc 104
+dpb[5] poc 112
+dpbs 6
+rpl[0] poc 112 dpb[5]
+rpl[1] poc 108 dpb[3]
+rpl[2] poc 104 dpb[4]
+rpl[3] poc 100 dpb[0]
+free dpb[1]
+current POC 114
+dpb[0] poc 100
+dpb[1] poc 113
+dpb[2] poc 111
+dpb[3] poc 108
+dpb[4] poc 104
+dpb[5] poc 112
+dpbs 6
+rpl[0] poc 113 dpb[1]
+rpl[1] poc 112 dpb[5]
+rpl[2] poc 108 dpb[3]
+rpl[3] poc 104 dpb[4]
+free dpb[0]
+current POC 115
+dpb[0] poc 114
+dpb[1] poc 113
+dpb[2] poc 111
+dpb[3] poc 108
+dpb[4] poc 104
+dpb[5] poc 112
+dpbs 6
+rpl[0] poc 114 dpb[0]
+rpl[1] poc 112 dpb[5]
+rpl[2] poc 108 dpb[3]
+rpl[3] poc 104 dpb[4]
+free dpb[2]
+current POC 116
+dpb[0] poc 114
+dpb[1] poc 113
+dpb[2] poc 115
+dpb[3] poc 108
+dpb[4] poc 104
+dpb[5] poc 112
+dpbs 6
+rpl[0] poc 115 dpb[2]
+rpl[1] poc 112 dpb[5]
+rpl[2] poc 108 dpb[3]
+rpl[3] poc 104 dpb[4]
+free dpb[1]
+current POC 117
+dpb[0] poc 114
+dpb[1] poc 116
+dpb[2] poc 115
+dpb[3] poc 108
+dpb[4] poc 104
+dpb[5] poc 112
+dpbs 6
+rpl[0] poc 116 dpb[1]
+rpl[1] poc 112 dpb[5]
+rpl[2] poc 108 dpb[3]
+rpl[3] poc 104 dpb[4]
+free dpb[0]
+current POC 118
+dpb[0] poc 117
+dpb[1] poc 116
+dpb[2] poc 115
+dpb[3] poc 108
+dpb[4] poc 104
+dpb[5] poc 112
+dpbs 6
+rpl[0] poc 117 dpb[0]
+rpl[1] poc 116 dpb[1]
+rpl[2] poc 112 dpb[5]
+rpl[3] poc 108 dpb[3]
+free dpb[4]
+current POC 119
+dpb[0] poc 117
+dpb[1] poc 116
+dpb[2] poc 115
+dpb[3] poc 108
+dpb[4] poc 118
+dpb[5] poc 112
+dpbs 6
+rpl[0] poc 118 dpb[4]
+rpl[1] poc 116 dpb[1]
+rpl[2] poc 112 dpb[5]
+rpl[3] poc 108 dpb[3]
+free dpb[2]
+current POC 120
+dpb[0] poc 117
+dpb[1] poc 116
+dpb[2] poc 119
+dpb[3] poc 108
+dpb[4] poc 118
+dpb[5] poc 112
+dpbs 6
+rpl[0] poc 119 dpb[2]
+rpl[1] poc 116 dpb[1]
+rpl[2] poc 112 dpb[5]
+rpl[3] poc 108 dpb[3]
+free dpb[0]
+current POC 121
+dpb[0] poc 120
+dpb[1] poc 116
+dpb[2] poc 119
+dpb[3] poc 108
+dpb[4] poc 118
+dpb[5] poc 112
+dpbs 6
+rpl[0] poc 120 dpb[0]
+rpl[1] poc 116 dpb[1]
+rpl[2] poc 112 dpb[5]
+rpl[3] poc 108 dpb[3]
+free dpb[4]
+current POC 122
+dpb[0] poc 120
+dpb[1] poc 116
+dpb[2] poc 119
+dpb[3] poc 108
+dpb[4] poc 121
+dpb[5] poc 112
+dpbs 6
+rpl[0] poc 121 dpb[4]
+rpl[1] poc 120 dpb[0]
+rpl[2] poc 116 dpb[1]
+rpl[3] poc 112 dpb[5]
+free dpb[3]
+current POC 123
+dpb[0] poc 120
+dpb[1] poc 116
+dpb[2] poc 119
+dpb[3] poc 122
+dpb[4] poc 121
+dpb[5] poc 112
+dpbs 6
+rpl[0] poc 122 dpb[3]
+rpl[1] poc 120 dpb[0]
+rpl[2] poc 116 dpb[1]
+rpl[3] poc 112 dpb[5]
+free dpb[2]
+current POC 124
+dpb[0] poc 120
+dpb[1] poc 116
+dpb[2] poc 123
+dpb[3] poc 122
+dpb[4] poc 121
+dpb[5] poc 112
+dpbs 6
+rpl[0] poc 123 dpb[2]
+rpl[1] poc 120 dpb[0]
+rpl[2] poc 116 dpb[1]
+rpl[3] poc 112 dpb[5]
+free dpb[4]
+current POC 125
+dpb[0] poc 120
+dpb[1] poc 116
+dpb[2] poc 123
+dpb[3] poc 122
+dpb[4] poc 124
+dpb[5] poc 112
+dpbs 6
+rpl[0] poc 124 dpb[4]
+rpl[1] poc 120 dpb[0]
+rpl[2] poc 116 dpb[1]
+rpl[3] poc 112 dpb[5]
+free dpb[3]
+current POC 126
+dpb[0] poc 120
+dpb[1] poc 116
+dpb[2] poc 123
+dpb[3] poc 125
+dpb[4] poc 124
+dpb[5] poc 112
+dpbs 6
+rpl[0] poc 125 dpb[3]
+rpl[1] poc 124 dpb[4]
+rpl[2] poc 120 dpb[0]
+rpl[3] poc 116 dpb[1]
+free dpb[5]
+current POC 127
+dpb[0] poc 120
+dpb[1] poc 116
+dpb[2] poc 123
+dpb[3] poc 125
+dpb[4] poc 124
+dpb[5] poc 126
+dpbs 6
+rpl[0] poc 126 dpb[5]
+rpl[1] poc 124 dpb[4]
+rpl[2] poc 120 dpb[0]
+rpl[3] poc 116 dpb[1]
+free dpb[2]
+current POC 128
+dpb[0] poc 120
+dpb[1] poc 116
+dpb[2] poc 127
+dpb[3] poc 125
+dpb[4] poc 124
+dpb[5] poc 126
+dpbs 6
+rpl[0] poc 127 dpb[2]
+rpl[1] poc 124 dpb[4]
+rpl[2] poc 120 dpb[0]
+rpl[3] poc 116 dpb[1]
+free dpb[3]
+current POC 129
+dpb[0] poc 120
+dpb[1] poc 116
+dpb[2] poc 127
+dpb[3] poc 128
+dpb[4] poc 124
+dpb[5] poc 126
+dpbs 6
+rpl[0] poc 128 dpb[3]
+rpl[1] poc 124 dpb[4]
+rpl[2] poc 120 dpb[0]
+rpl[3] poc 116 dpb[1]
+free dpb[5]
+current POC 130
+dpb[0] poc 120
+dpb[1] poc 116
+dpb[2] poc 127
+dpb[3] poc 128
+dpb[4] poc 124
+dpb[5] poc 129
+dpbs 6
+rpl[0] poc 129 dpb[5]
+rpl[1] poc 128 dpb[3]
+rpl[2] poc 124 dpb[4]
+rpl[3] poc 120 dpb[0]
+free dpb[1]
+current POC 131
+dpb[0] poc 120
+dpb[1] poc 130
+dpb[2] poc 127
+dpb[3] poc 128
+dpb[4] poc 124
+dpb[5] poc 129
+dpbs 6
+rpl[0] poc 130 dpb[1]
+rpl[1] poc 128 dpb[3]
+rpl[2] poc 124 dpb[4]
+rpl[3] poc 120 dpb[0]
+free dpb[2]
+current POC 132
+dpb[0] poc 120
+dpb[1] poc 130
+dpb[2] poc 131
+dpb[3] poc 128
+dpb[4] poc 124
+dpb[5] poc 129
+dpbs 6
+rpl[0] poc 131 dpb[2]
+rpl[1] poc 128 dpb[3]
+rpl[2] poc 124 dpb[4]
+rpl[3] poc 120 dpb[0]
+free dpb[5]
+current POC 133
+dpb[0] poc 120
+dpb[1] poc 130
+dpb[2] poc 131
+dpb[3] poc 128
+dpb[4] poc 124
+dpb[5] poc 132
+dpbs 6
+rpl[0] poc 132 dpb[5]
+rpl[1] poc 128 dpb[3]
+rpl[2] poc 124 dpb[4]
+rpl[3] poc 120 dpb[0]
+free dpb[1]
+current POC 134
+dpb[0] poc 120
+dpb[1] poc 133
+dpb[2] poc 131
+dpb[3] poc 128
+dpb[4] poc 124
+dpb[5] poc 132
+dpbs 6
+rpl[0] poc 133 dpb[1]
+rpl[1] poc 132 dpb[5]
+rpl[2] poc 128 dpb[3]
+rpl[3] poc 124 dpb[4]
+free dpb[0]
+current POC 135
+dpb[0] poc 134
+dpb[1] poc 133
+dpb[2] poc 131
+dpb[3] poc 128
+dpb[4] poc 124
+dpb[5] poc 132
+dpbs 6
+rpl[0] poc 134 dpb[0]
+rpl[1] poc 132 dpb[5]
+rpl[2] poc 128 dpb[3]
+rpl[3] poc 124 dpb[4]
+free dpb[2]
+current POC 136
+dpb[0] poc 134
+dpb[1] poc 133
+dpb[2] poc 135
+dpb[3] poc 128
+dpb[4] poc 124
+dpb[5] poc 132
+dpbs 6
+rpl[0] poc 135 dpb[2]
+rpl[1] poc 132 dpb[5]
+rpl[2] poc 128 dpb[3]
+rpl[3] poc 124 dpb[4]
+free dpb[1]
+current POC 137
+dpb[0] poc 134
+dpb[1] poc 136
+dpb[2] poc 135
+dpb[3] poc 128
+dpb[4] poc 124
+dpb[5] poc 132
+dpbs 6
+rpl[0] poc 136 dpb[1]
+rpl[1] poc 132 dpb[5]
+rpl[2] poc 128 dpb[3]
+rpl[3] poc 124 dpb[4]
+free dpb[0]
+current POC 138
+dpb[0] poc 137
+dpb[1] poc 136
+dpb[2] poc 135
+dpb[3] poc 128
+dpb[4] poc 124
+dpb[5] poc 132
+dpbs 6
+rpl[0] poc 137 dpb[0]
+rpl[1] poc 136 dpb[1]
+rpl[2] poc 132 dpb[5]
+rpl[3] poc 128 dpb[3]
+free dpb[4]
+current POC 139
+dpb[0] poc 137
+dpb[1] poc 136
+dpb[2] poc 135
+dpb[3] poc 128
+dpb[4] poc 138
+dpb[5] poc 132
+dpbs 6
+rpl[0] poc 138 dpb[4]
+rpl[1] poc 136 dpb[1]
+rpl[2] poc 132 dpb[5]
+rpl[3] poc 128 dpb[3]
+free dpb[2]
+current POC 140
+dpb[0] poc 137
+dpb[1] poc 136
+dpb[2] poc 139
+dpb[3] poc 128
+dpb[4] poc 138
+dpb[5] poc 132
+dpbs 6
+rpl[0] poc 139 dpb[2]
+rpl[1] poc 136 dpb[1]
+rpl[2] poc 132 dpb[5]
+rpl[3] poc 128 dpb[3]
+free dpb[0]
+current POC 141
+dpb[0] poc 140
+dpb[1] poc 136
+dpb[2] poc 139
+dpb[3] poc 128
+dpb[4] poc 138
+dpb[5] poc 132
+dpbs 6
+rpl[0] poc 140 dpb[0]
+rpl[1] poc 136 dpb[1]
+rpl[2] poc 132 dpb[5]
+rpl[3] poc 128 dpb[3]
+free dpb[4]
+current POC 142
+dpb[0] poc 140
+dpb[1] poc 136
+dpb[2] poc 139
+dpb[3] poc 128
+dpb[4] poc 141
+dpb[5] poc 132
+dpbs 6
+rpl[0] poc 141 dpb[4]
+rpl[1] poc 140 dpb[0]
+rpl[2] poc 136 dpb[1]
+rpl[3] poc 132 dpb[5]
+free dpb[3]
+current POC 143
+dpb[0] poc 140
+dpb[1] poc 136
+dpb[2] poc 139
+dpb[3] poc 142
+dpb[4] poc 141
+dpb[5] poc 132
+dpbs 6
+rpl[0] poc 142 dpb[3]
+rpl[1] poc 140 dpb[0]
+rpl[2] poc 136 dpb[1]
+rpl[3] poc 132 dpb[5]
+free dpb[2]
+current POC 144
+dpb[0] poc 140
+dpb[1] poc 136
+dpb[2] poc 143
+dpb[3] poc 142
+dpb[4] poc 141
+dpb[5] poc 132
+dpbs 6
+rpl[0] poc 143 dpb[2]
+rpl[1] poc 140 dpb[0]
+rpl[2] poc 136 dpb[1]
+rpl[3] poc 132 dpb[5]
+free dpb[4]
+current POC 145
+dpb[0] poc 140
+dpb[1] poc 136
+dpb[2] poc 143
+dpb[3] poc 142
+dpb[4] poc 144
+dpb[5] poc 132
+dpbs 6
+rpl[0] poc 144 dpb[4]
+rpl[1] poc 140 dpb[0]
+rpl[2] poc 136 dpb[1]
+rpl[3] poc 132 dpb[5]
+free dpb[3]
+current POC 146
+dpb[0] poc 140
+dpb[1] poc 136
+dpb[2] poc 143
+dpb[3] poc 145
+dpb[4] poc 144
+dpb[5] poc 132
+dpbs 6
+rpl[0] poc 145 dpb[3]
+rpl[1] poc 144 dpb[4]
+rpl[2] poc 140 dpb[0]
+rpl[3] poc 136 dpb[1]
+free dpb[5]
+current POC 147
+dpb[0] poc 140
+dpb[1] poc 136
+dpb[2] poc 143
+dpb[3] poc 145
+dpb[4] poc 144
+dpb[5] poc 146
+dpbs 6
+rpl[0] poc 146 dpb[5]
+rpl[1] poc 144 dpb[4]
+rpl[2] poc 140 dpb[0]
+rpl[3] poc 136 dpb[1]
+free dpb[2]
+current POC 148
+dpb[0] poc 140
+dpb[1] poc 136
+dpb[2] poc 147
+dpb[3] poc 145
+dpb[4] poc 144
+dpb[5] poc 146
+dpbs 6
+rpl[0] poc 147 dpb[2]
+rpl[1] poc 144 dpb[4]
+rpl[2] poc 140 dpb[0]
+rpl[3] poc 136 dpb[1]
+free dpb[3]
+current POC 149
+dpb[0] poc 140
+dpb[1] poc 136
+dpb[2] poc 147
+dpb[3] poc 148
+dpb[4] poc 144
+dpb[5] poc 146
+dpbs 6
+rpl[0] poc 148 dpb[3]
+rpl[1] poc 144 dpb[4]
+rpl[2] poc 140 dpb[0]
+rpl[3] poc 136 dpb[1]
+free dpb[5]
+current POC 150
+dpb[0] poc 140
+dpb[1] poc 136
+dpb[2] poc 147
+dpb[3] poc 148
+dpb[4] poc 144
+dpb[5] poc 149
+dpbs 6
+rpl[0] poc 149 dpb[5]
+rpl[1] poc 148 dpb[3]
+rpl[2] poc 144 dpb[4]
+rpl[3] poc 140 dpb[0]
+free dpb[1]
+current POC 151
+dpb[0] poc 140
+dpb[1] poc 150
+dpb[2] poc 147
+dpb[3] poc 148
+dpb[4] poc 144
+dpb[5] poc 149
+dpbs 6
+rpl[0] poc 150 dpb[1]
+rpl[1] poc 148 dpb[3]
+rpl[2] poc 144 dpb[4]
+rpl[3] poc 140 dpb[0]
+free dpb[2]
+current POC 152
+dpb[0] poc 140
+dpb[1] poc 150
+dpb[2] poc 151
+dpb[3] poc 148
+dpb[4] poc 144
+dpb[5] poc 149
+dpbs 6
+rpl[0] poc 151 dpb[2]
+rpl[1] poc 148 dpb[3]
+rpl[2] poc 144 dpb[4]
+rpl[3] poc 140 dpb[0]
+free dpb[5]
+current POC 153
+dpb[0] poc 140
+dpb[1] poc 150
+dpb[2] poc 151
+dpb[3] poc 148
+dpb[4] poc 144
+dpb[5] poc 152
+dpbs 6
+rpl[0] poc 152 dpb[5]
+rpl[1] poc 148 dpb[3]
+rpl[2] poc 144 dpb[4]
+rpl[3] poc 140 dpb[0]
+free dpb[1]
+current POC 154
+dpb[0] poc 140
+dpb[1] poc 153
+dpb[2] poc 151
+dpb[3] poc 148
+dpb[4] poc 144
+dpb[5] poc 152
+dpbs 6
+rpl[0] poc 153 dpb[1]
+rpl[1] poc 152 dpb[5]
+rpl[2] poc 148 dpb[3]
+rpl[3] poc 144 dpb[4]
+free dpb[0]
+current POC 155
+dpb[0] poc 154
+dpb[1] poc 153
+dpb[2] poc 151
+dpb[3] poc 148
+dpb[4] poc 144
+dpb[5] poc 152
+dpbs 6
+rpl[0] poc 154 dpb[0]
+rpl[1] poc 152 dpb[5]
+rpl[2] poc 148 dpb[3]
+rpl[3] poc 144 dpb[4]
+free dpb[2]
+current POC 156
+dpb[0] poc 154
+dpb[1] poc 153
+dpb[2] poc 155
+dpb[3] poc 148
+dpb[4] poc 144
+dpb[5] poc 152
+dpbs 6
+rpl[0] poc 155 dpb[2]
+rpl[1] poc 152 dpb[5]
+rpl[2] poc 148 dpb[3]
+rpl[3] poc 144 dpb[4]
+free dpb[1]
+current POC 157
+dpb[0] poc 154
+dpb[1] poc 156
+dpb[2] poc 155
+dpb[3] poc 148
+dpb[4] poc 144
+dpb[5] poc 152
+dpbs 6
+rpl[0] poc 156 dpb[1]
+rpl[1] poc 152 dpb[5]
+rpl[2] poc 148 dpb[3]
+rpl[3] poc 144 dpb[4]
+free dpb[0]
+current POC 158
+dpb[0] poc 157
+dpb[1] poc 156
+dpb[2] poc 155
+dpb[3] poc 148
+dpb[4] poc 144
+dpb[5] poc 152
+dpbs 6
+rpl[0] poc 157 dpb[0]
+rpl[1] poc 156 dpb[1]
+rpl[2] poc 152 dpb[5]
+rpl[3] poc 148 dpb[3]
+free dpb[4]
+current POC 159
+dpb[0] poc 157
+dpb[1] poc 156
+dpb[2] poc 155
+dpb[3] poc 148
+dpb[4] poc 158
+dpb[5] poc 152
+dpbs 6
+rpl[0] poc 158 dpb[4]
+rpl[1] poc 156 dpb[1]
+rpl[2] poc 152 dpb[5]
+rpl[3] poc 148 dpb[3]
+free dpb[2]
+current POC 160
+dpb[0] poc 157
+dpb[1] poc 156
+dpb[2] poc 159
+dpb[3] poc 148
+dpb[4] poc 158
+dpb[5] poc 152
+dpbs 6
+rpl[0] poc 159 dpb[2]
+rpl[1] poc 156 dpb[1]
+rpl[2] poc 152 dpb[5]
+rpl[3] poc 148 dpb[3]
+free dpb[0]
+current POC 161
+dpb[0] poc 160
+dpb[1] poc 156
+dpb[2] poc 159
+dpb[3] poc 148
+dpb[4] poc 158
+dpb[5] poc 152
+dpbs 6
+rpl[0] poc 160 dpb[0]
+rpl[1] poc 156 dpb[1]
+rpl[2] poc 152 dpb[5]
+rpl[3] poc 148 dpb[3]
+free dpb[4]
+current POC 162
+dpb[0] poc 160
+dpb[1] poc 156
+dpb[2] poc 159
+dpb[3] poc 148
+dpb[4] poc 161
+dpb[5] poc 152
+dpbs 6
+rpl[0] poc 161 dpb[4]
+rpl[1] poc 160 dpb[0]
+rpl[2] poc 156 dpb[1]
+rpl[3] poc 152 dpb[5]
+free dpb[3]
+current POC 163
+dpb[0] poc 160
+dpb[1] poc 156
+dpb[2] poc 159
+dpb[3] poc 162
+dpb[4] poc 161
+dpb[5] poc 152
+dpbs 6
+rpl[0] poc 162 dpb[3]
+rpl[1] poc 160 dpb[0]
+rpl[2] poc 156 dpb[1]
+rpl[3] poc 152 dpb[5]
+free dpb[2]
+current POC 164
+dpb[0] poc 160
+dpb[1] poc 156
+dpb[2] poc 163
+dpb[3] poc 162
+dpb[4] poc 161
+dpb[5] poc 152
+dpbs 6
+rpl[0] poc 163 dpb[2]
+rpl[1] poc 160 dpb[0]
+rpl[2] poc 156 dpb[1]
+rpl[3] poc 152 dpb[5]
+free dpb[4]
+current POC 165
+dpb[0] poc 160
+dpb[1] poc 156
+dpb[2] poc 163
+dpb[3] poc 162
+dpb[4] poc 164
+dpb[5] poc 152
+dpbs 6
+rpl[0] poc 164 dpb[4]
+rpl[1] poc 160 dpb[0]
+rpl[2] poc 156 dpb[1]
+rpl[3] poc 152 dpb[5]
+free dpb[3]
+current POC 166
+dpb[0] poc 160
+dpb[1] poc 156
+dpb[2] poc 163
+dpb[3] poc 165
+dpb[4] poc 164
+dpb[5] poc 152
+dpbs 6
+rpl[0] poc 165 dpb[3]
+rpl[1] poc 164 dpb[4]
+rpl[2] poc 160 dpb[0]
+rpl[3] poc 156 dpb[1]
+free dpb[5]
+current POC 167
+dpb[0] poc 160
+dpb[1] poc 156
+dpb[2] poc 163
+dpb[3] poc 165
+dpb[4] poc 164
+dpb[5] poc 166
+dpbs 6
+rpl[0] poc 166 dpb[5]
+rpl[1] poc 164 dpb[4]
+rpl[2] poc 160 dpb[0]
+rpl[3] poc 156 dpb[1]
+free dpb[2]
+current POC 168
+dpb[0] poc 160
+dpb[1] poc 156
+dpb[2] poc 167
+dpb[3] poc 165
+dpb[4] poc 164
+dpb[5] poc 166
+dpbs 6
+rpl[0] poc 167 dpb[2]
+rpl[1] poc 164 dpb[4]
+rpl[2] poc 160 dpb[0]
+rpl[3] poc 156 dpb[1]
+free dpb[3]
+current POC 169
+dpb[0] poc 160
+dpb[1] poc 156
+dpb[2] poc 167
+dpb[3] poc 168
+dpb[4] poc 164
+dpb[5] poc 166
+dpbs 6
+rpl[0] poc 168 dpb[3]
+rpl[1] poc 164 dpb[4]
+rpl[2] poc 160 dpb[0]
+rpl[3] poc 156 dpb[1]
+free dpb[5]
+current POC 170
+dpb[0] poc 160
+dpb[1] poc 156
+dpb[2] poc 167
+dpb[3] poc 168
+dpb[4] poc 164
+dpb[5] poc 169
+dpbs 6
+rpl[0] poc 169 dpb[5]
+rpl[1] poc 168 dpb[3]
+rpl[2] poc 164 dpb[4]
+rpl[3] poc 160 dpb[0]
+free dpb[1]
+current POC 171
+dpb[0] poc 160
+dpb[1] poc 170
+dpb[2] poc 167
+dpb[3] poc 168
+dpb[4] poc 164
+dpb[5] poc 169
+dpbs 6
+rpl[0] poc 170 dpb[1]
+rpl[1] poc 168 dpb[3]
+rpl[2] poc 164 dpb[4]
+rpl[3] poc 160 dpb[0]
+free dpb[2]
+current POC 172
+dpb[0] poc 160
+dpb[1] poc 170
+dpb[2] poc 171
+dpb[3] poc 168
+dpb[4] poc 164
+dpb[5] poc 169
+dpbs 6
+rpl[0] poc 171 dpb[2]
+rpl[1] poc 168 dpb[3]
+rpl[2] poc 164 dpb[4]
+rpl[3] poc 160 dpb[0]
+free dpb[5]
+current POC 173
+dpb[0] poc 160
+dpb[1] poc 170
+dpb[2] poc 171
+dpb[3] poc 168
+dpb[4] poc 164
+dpb[5] poc 172
+dpbs 6
+rpl[0] poc 172 dpb[5]
+rpl[1] poc 168 dpb[3]
+rpl[2] poc 164 dpb[4]
+rpl[3] poc 160 dpb[0]
+free dpb[1]
+current POC 174
+dpb[0] poc 160
+dpb[1] poc 173
+dpb[2] poc 171
+dpb[3] poc 168
+dpb[4] poc 164
+dpb[5] poc 172
+dpbs 6
+rpl[0] poc 173 dpb[1]
+rpl[1] poc 172 dpb[5]
+rpl[2] poc 168 dpb[3]
+rpl[3] poc 164 dpb[4]
+free dpb[0]
+current POC 175
+dpb[0] poc 174
+dpb[1] poc 173
+dpb[2] poc 171
+dpb[3] poc 168
+dpb[4] poc 164
+dpb[5] poc 172
+dpbs 6
+rpl[0] poc 174 dpb[0]
+rpl[1] poc 172 dpb[5]
+rpl[2] poc 168 dpb[3]
+rpl[3] poc 164 dpb[4]
+free dpb[2]
+current POC 176
+dpb[0] poc 174
+dpb[1] poc 173
+dpb[2] poc 175
+dpb[3] poc 168
+dpb[4] poc 164
+dpb[5] poc 172
+dpbs 6
+rpl[0] poc 175 dpb[2]
+rpl[1] poc 172 dpb[5]
+rpl[2] poc 168 dpb[3]
+rpl[3] poc 164 dpb[4]
+free dpb[1]
+current POC 177
+dpb[0] poc 174
+dpb[1] poc 176
+dpb[2] poc 175
+dpb[3] poc 168
+dpb[4] poc 164
+dpb[5] poc 172
+dpbs 6
+rpl[0] poc 176 dpb[1]
+rpl[1] poc 172 dpb[5]
+rpl[2] poc 168 dpb[3]
+rpl[3] poc 164 dpb[4]
+free dpb[0]
+current POC 178
+dpb[0] poc 177
+dpb[1] poc 176
+dpb[2] poc 175
+dpb[3] poc 168
+dpb[4] poc 164
+dpb[5] poc 172
+dpbs 6
+rpl[0] poc 177 dpb[0]
+rpl[1] poc 176 dpb[1]
+rpl[2] poc 172 dpb[5]
+rpl[3] poc 168 dpb[3]
+free dpb[4]
+current POC 179
+dpb[0] poc 177
+dpb[1] poc 176
+dpb[2] poc 175
+dpb[3] poc 168
+dpb[4] poc 178
+dpb[5] poc 172
+dpbs 6
+rpl[0] poc 178 dpb[4]
+rpl[1] poc 176 dpb[1]
+rpl[2] poc 172 dpb[5]
+rpl[3] poc 168 dpb[3]
+free dpb[2]
+current POC 180
+dpb[0] poc 177
+dpb[1] poc 176
+dpb[2] poc 179
+dpb[3] poc 168
+dpb[4] poc 178
+dpb[5] poc 172
+dpbs 6
+rpl[0] poc 179 dpb[2]
+rpl[1] poc 176 dpb[1]
+rpl[2] poc 172 dpb[5]
+rpl[3] poc 168 dpb[3]
+free dpb[0]
+current POC 181
+dpb[0] poc 180
+dpb[1] poc 176
+dpb[2] poc 179
+dpb[3] poc 168
+dpb[4] poc 178
+dpb[5] poc 172
+dpbs 6
+rpl[0] poc 180 dpb[0]
+rpl[1] poc 176 dpb[1]
+rpl[2] poc 172 dpb[5]
+rpl[3] poc 168 dpb[3]
+free dpb[4]
+current POC 182
+dpb[0] poc 180
+dpb[1] poc 176
+dpb[2] poc 179
+dpb[3] poc 168
+dpb[4] poc 181
+dpb[5] poc 172
+dpbs 6
+rpl[0] poc 181 dpb[4]
+rpl[1] poc 180 dpb[0]
+rpl[2] poc 176 dpb[1]
+rpl[3] poc 172 dpb[5]
+free dpb[3]
+current POC 183
+dpb[0] poc 180
+dpb[1] poc 176
+dpb[2] poc 179
+dpb[3] poc 182
+dpb[4] poc 181
+dpb[5] poc 172
+dpbs 6
+rpl[0] poc 182 dpb[3]
+rpl[1] poc 180 dpb[0]
+rpl[2] poc 176 dpb[1]
+rpl[3] poc 172 dpb[5]
+free dpb[2]
+current POC 184
+dpb[0] poc 180
+dpb[1] poc 176
+dpb[2] poc 183
+dpb[3] poc 182
+dpb[4] poc 181
+dpb[5] poc 172
+dpbs 6
+rpl[0] poc 183 dpb[2]
+rpl[1] poc 180 dpb[0]
+rpl[2] poc 176 dpb[1]
+rpl[3] poc 172 dpb[5]
+free dpb[4]
+current POC 185
+dpb[0] poc 180
+dpb[1] poc 176
+dpb[2] poc 183
+dpb[3] poc 182
+dpb[4] poc 184
+dpb[5] poc 172
+dpbs 6
+rpl[0] poc 184 dpb[4]
+rpl[1] poc 180 dpb[0]
+rpl[2] poc 176 dpb[1]
+rpl[3] poc 172 dpb[5]
+free dpb[3]
+current POC 186
+dpb[0] poc 180
+dpb[1] poc 176
+dpb[2] poc 183
+dpb[3] poc 185
+dpb[4] poc 184
+dpb[5] poc 172
+dpbs 6
+rpl[0] poc 185 dpb[3]
+rpl[1] poc 184 dpb[4]
+rpl[2] poc 180 dpb[0]
+rpl[3] poc 176 dpb[1]
+free dpb[5]
+current POC 187
+dpb[0] poc 180
+dpb[1] poc 176
+dpb[2] poc 183
+dpb[3] poc 185
+dpb[4] poc 184
+dpb[5] poc 186
+dpbs 6
+rpl[0] poc 186 dpb[5]
+rpl[1] poc 184 dpb[4]
+rpl[2] poc 180 dpb[0]
+rpl[3] poc 176 dpb[1]
+free dpb[2]
+current POC 188
+dpb[0] poc 180
+dpb[1] poc 176
+dpb[2] poc 187
+dpb[3] poc 185
+dpb[4] poc 184
+dpb[5] poc 186
+dpbs 6
+rpl[0] poc 187 dpb[2]
+rpl[1] poc 184 dpb[4]
+rpl[2] poc 180 dpb[0]
+rpl[3] poc 176 dpb[1]
+free dpb[3]
+current POC 189
+dpb[0] poc 180
+dpb[1] poc 176
+dpb[2] poc 187
+dpb[3] poc 188
+dpb[4] poc 184
+dpb[5] poc 186
+dpbs 6
+rpl[0] poc 188 dpb[3]
+rpl[1] poc 184 dpb[4]
+rpl[2] poc 180 dpb[0]
+rpl[3] poc 176 dpb[1]
+free dpb[5]
+current POC 190
+dpb[0] poc 180
+dpb[1] poc 176
+dpb[2] poc 187
+dpb[3] poc 188
+dpb[4] poc 184
+dpb[5] poc 189
+dpbs 6
+rpl[0] poc 189 dpb[5]
+rpl[1] poc 188 dpb[3]
+rpl[2] poc 184 dpb[4]
+rpl[3] poc 180 dpb[0]
+free dpb[1]
+current POC 191
+dpb[0] poc 180
+dpb[1] poc 190
+dpb[2] poc 187
+dpb[3] poc 188
+dpb[4] poc 184
+dpb[5] poc 189
+dpbs 6
+rpl[0] poc 190 dpb[1]
+rpl[1] poc 188 dpb[3]
+rpl[2] poc 184 dpb[4]
+rpl[3] poc 180 dpb[0]
+free dpb[2]
+current POC 192
+dpb[0] poc 180
+dpb[1] poc 190
+dpb[2] poc 191
+dpb[3] poc 188
+dpb[4] poc 184
+dpb[5] poc 189
+dpbs 6
+rpl[0] poc 191 dpb[2]
+rpl[1] poc 188 dpb[3]
+rpl[2] poc 184 dpb[4]
+rpl[3] poc 180 dpb[0]
+free dpb[5]
+current POC 193
+dpb[0] poc 180
+dpb[1] poc 190
+dpb[2] poc 191
+dpb[3] poc 188
+dpb[4] poc 184
+dpb[5] poc 192
+dpbs 6
+rpl[0] poc 192 dpb[5]
+rpl[1] poc 188 dpb[3]
+rpl[2] poc 184 dpb[4]
+rpl[3] poc 180 dpb[0]
+free dpb[1]
+current POC 194
+dpb[0] poc 180
+dpb[1] poc 193
+dpb[2] poc 191
+dpb[3] poc 188
+dpb[4] poc 184
+dpb[5] poc 192
+dpbs 6
+rpl[0] poc 193 dpb[1]
+rpl[1] poc 192 dpb[5]
+rpl[2] poc 188 dpb[3]
+rpl[3] poc 184 dpb[4]
+free dpb[0]
+current POC 195
+dpb[0] poc 194
+dpb[1] poc 193
+dpb[2] poc 191
+dpb[3] poc 188
+dpb[4] poc 184
+dpb[5] poc 192
+dpbs 6
+rpl[0] poc 194 dpb[0]
+rpl[1] poc 192 dpb[5]
+rpl[2] poc 188 dpb[3]
+rpl[3] poc 184 dpb[4]
+free dpb[2]
+current POC 196
+dpb[0] poc 194
+dpb[1] poc 193
+dpb[2] poc 195
+dpb[3] poc 188
+dpb[4] poc 184
+dpb[5] poc 192
+dpbs 6
+rpl[0] poc 195 dpb[2]
+rpl[1] poc 192 dpb[5]
+rpl[2] poc 188 dpb[3]
+rpl[3] poc 184 dpb[4]
+free dpb[1]
+current POC 197
+dpb[0] poc 194
+dpb[1] poc 196
+dpb[2] poc 195
+dpb[3] poc 188
+dpb[4] poc 184
+dpb[5] poc 192
+dpbs 6
+rpl[0] poc 196 dpb[1]
+rpl[1] poc 192 dpb[5]
+rpl[2] poc 188 dpb[3]
+rpl[3] poc 184 dpb[4]
+free dpb[0]
+current POC 198
+dpb[0] poc 197
+dpb[1] poc 196
+dpb[2] poc 195
+dpb[3] poc 188
+dpb[4] poc 184
+dpb[5] poc 192
+dpbs 6
+rpl[0] poc 197 dpb[0]
+rpl[1] poc 196 dpb[1]
+rpl[2] poc 192 dpb[5]
+rpl[3] poc 188 dpb[3]
+free dpb[4]
+current POC 199
+dpb[0] poc 197
+dpb[1] poc 196
+dpb[2] poc 195
+dpb[3] poc 188
+dpb[4] poc 198
+dpb[5] poc 192
+dpbs 6
+rpl[0] poc 198 dpb[4]
+rpl[1] poc 196 dpb[1]
+rpl[2] poc 192 dpb[5]
+rpl[3] poc 188 dpb[3]
+free dpb[2]
+current POC 200
+dpb[0] poc 197
+dpb[1] poc 196
+dpb[2] poc 199
+dpb[3] poc 188
+dpb[4] poc 198
+dpb[5] poc 192
+dpbs 6
+rpl[0] poc 199 dpb[2]
+rpl[1] poc 196 dpb[1]
+rpl[2] poc 192 dpb[5]
+rpl[3] poc 188 dpb[3]
+free dpb[0]
+current POC 201
+dpb[0] poc 200
+dpb[1] poc 196
+dpb[2] poc 199
+dpb[3] poc 188
+dpb[4] poc 198
+dpb[5] poc 192
+dpbs 6
+rpl[0] poc 200 dpb[0]
+rpl[1] poc 196 dpb[1]
+rpl[2] poc 192 dpb[5]
+rpl[3] poc 188 dpb[3]
+free dpb[4]
+current POC 202
+dpb[0] poc 200
+dpb[1] poc 196
+dpb[2] poc 199
+dpb[3] poc 188
+dpb[4] poc 201
+dpb[5] poc 192
+dpbs 6
+rpl[0] poc 201 dpb[4]
+rpl[1] poc 200 dpb[0]
+rpl[2] poc 196 dpb[1]
+rpl[3] poc 192 dpb[5]
+free dpb[3]
+current POC 203
+dpb[0] poc 200
+dpb[1] poc 196
+dpb[2] poc 199
+dpb[3] poc 202
+dpb[4] poc 201
+dpb[5] poc 192
+dpbs 6
+rpl[0] poc 202 dpb[3]
+rpl[1] poc 200 dpb[0]
+rpl[2] poc 196 dpb[1]
+rpl[3] poc 192 dpb[5]
+free dpb[2]
+current POC 204
+dpb[0] poc 200
+dpb[1] poc 196
+dpb[2] poc 203
+dpb[3] poc 202
+dpb[4] poc 201
+dpb[5] poc 192
+dpbs 6
+rpl[0] poc 203 dpb[2]
+rpl[1] poc 200 dpb[0]
+rpl[2] poc 196 dpb[1]
+rpl[3] poc 192 dpb[5]
+free dpb[4]
+current POC 205
+dpb[0] poc 200
+dpb[1] poc 196
+dpb[2] poc 203
+dpb[3] poc 202
+dpb[4] poc 204
+dpb[5] poc 192
+dpbs 6
+rpl[0] poc 204 dpb[4]
+rpl[1] poc 200 dpb[0]
+rpl[2] poc 196 dpb[1]
+rpl[3] poc 192 dpb[5]
+free dpb[3]
+current POC 206
+dpb[0] poc 200
+dpb[1] poc 196
+dpb[2] poc 203
+dpb[3] poc 205
+dpb[4] poc 204
+dpb[5] poc 192
+dpbs 6
+rpl[0] poc 205 dpb[3]
+rpl[1] poc 204 dpb[4]
+rpl[2] poc 200 dpb[0]
+rpl[3] poc 196 dpb[1]
+free dpb[5]
+current POC 207
+dpb[0] poc 200
+dpb[1] poc 196
+dpb[2] poc 203
+dpb[3] poc 205
+dpb[4] poc 204
+dpb[5] poc 206
+dpbs 6
+rpl[0] poc 206 dpb[5]
+rpl[1] poc 204 dpb[4]
+rpl[2] poc 200 dpb[0]
+rpl[3] poc 196 dpb[1]
+free dpb[2]
+current POC 208
+dpb[0] poc 200
+dpb[1] poc 196
+dpb[2] poc 207
+dpb[3] poc 205
+dpb[4] poc 204
+dpb[5] poc 206
+dpbs 6
+rpl[0] poc 207 dpb[2]
+rpl[1] poc 204 dpb[4]
+rpl[2] poc 200 dpb[0]
+rpl[3] poc 196 dpb[1]
+free dpb[3]
+current POC 209
+dpb[0] poc 200
+dpb[1] poc 196
+dpb[2] poc 207
+dpb[3] poc 208
+dpb[4] poc 204
+dpb[5] poc 206
+dpbs 6
+rpl[0] poc 208 dpb[3]
+rpl[1] poc 204 dpb[4]
+rpl[2] poc 200 dpb[0]
+rpl[3] poc 196 dpb[1]
+free dpb[5]
+current POC 210
+dpb[0] poc 200
+dpb[1] poc 196
+dpb[2] poc 207
+dpb[3] poc 208
+dpb[4] poc 204
+dpb[5] poc 209
+dpbs 6
+rpl[0] poc 209 dpb[5]
+rpl[1] poc 208 dpb[3]
+rpl[2] poc 204 dpb[4]
+rpl[3] poc 200 dpb[0]
+free dpb[1]
+current POC 211
+dpb[0] poc 200
+dpb[1] poc 210
+dpb[2] poc 207
+dpb[3] poc 208
+dpb[4] poc 204
+dpb[5] poc 209
+dpbs 6
+rpl[0] poc 210 dpb[1]
+rpl[1] poc 208 dpb[3]
+rpl[2] poc 204 dpb[4]
+rpl[3] poc 200 dpb[0]
+free dpb[2]
+current POC 212
+dpb[0] poc 200
+dpb[1] poc 210
+dpb[2] poc 211
+dpb[3] poc 208
+dpb[4] poc 204
+dpb[5] poc 209
+dpbs 6
+rpl[0] poc 211 dpb[2]
+rpl[1] poc 208 dpb[3]
+rpl[2] poc 204 dpb[4]
+rpl[3] poc 200 dpb[0]
+free dpb[5]
+current POC 213
+dpb[0] poc 200
+dpb[1] poc 210
+dpb[2] poc 211
+dpb[3] poc 208
+dpb[4] poc 204
+dpb[5] poc 212
+dpbs 6
+rpl[0] poc 212 dpb[5]
+rpl[1] poc 208 dpb[3]
+rpl[2] poc 204 dpb[4]
+rpl[3] poc 200 dpb[0]
+free dpb[1]
+current POC 214
+dpb[0] poc 200
+dpb[1] poc 213
+dpb[2] poc 211
+dpb[3] poc 208
+dpb[4] poc 204
+dpb[5] poc 212
+dpbs 6
+rpl[0] poc 213 dpb[1]
+rpl[1] poc 212 dpb[5]
+rpl[2] poc 208 dpb[3]
+rpl[3] poc 204 dpb[4]
+free dpb[0]
+current POC 215
+dpb[0] poc 214
+dpb[1] poc 213
+dpb[2] poc 211
+dpb[3] poc 208
+dpb[4] poc 204
+dpb[5] poc 212
+dpbs 6
+rpl[0] poc 214 dpb[0]
+rpl[1] poc 212 dpb[5]
+rpl[2] poc 208 dpb[3]
+rpl[3] poc 204 dpb[4]
+free dpb[2]
+current POC 216
+dpb[0] poc 214
+dpb[1] poc 213
+dpb[2] poc 215
+dpb[3] poc 208
+dpb[4] poc 204
+dpb[5] poc 212
+dpbs 6
+rpl[0] poc 215 dpb[2]
+rpl[1] poc 212 dpb[5]
+rpl[2] poc 208 dpb[3]
+rpl[3] poc 204 dpb[4]
+free dpb[1]
+current POC 217
+dpb[0] poc 214
+dpb[1] poc 216
+dpb[2] poc 215
+dpb[3] poc 208
+dpb[4] poc 204
+dpb[5] poc 212
+dpbs 6
+rpl[0] poc 216 dpb[1]
+rpl[1] poc 212 dpb[5]
+rpl[2] poc 208 dpb[3]
+rpl[3] poc 204 dpb[4]
+free dpb[0]
+current POC 218
+dpb[0] poc 217
+dpb[1] poc 216
+dpb[2] poc 215
+dpb[3] poc 208
+dpb[4] poc 204
+dpb[5] poc 212
+dpbs 6
+rpl[0] poc 217 dpb[0]
+rpl[1] poc 216 dpb[1]
+rpl[2] poc 212 dpb[5]
+rpl[3] poc 208 dpb[3]
+free dpb[4]
+current POC 219
+dpb[0] poc 217
+dpb[1] poc 216
+dpb[2] poc 215
+dpb[3] poc 208
+dpb[4] poc 218
+dpb[5] poc 212
+dpbs 6
+rpl[0] poc 218 dpb[4]
+rpl[1] poc 216 dpb[1]
+rpl[2] poc 212 dpb[5]
+rpl[3] poc 208 dpb[3]
+free dpb[2]
+current POC 220
+dpb[0] poc 217
+dpb[1] poc 216
+dpb[2] poc 219
+dpb[3] poc 208
+dpb[4] poc 218
+dpb[5] poc 212
+dpbs 6
+rpl[0] poc 219 dpb[2]
+rpl[1] poc 216 dpb[1]
+rpl[2] poc 212 dpb[5]
+rpl[3] poc 208 dpb[3]
+free dpb[0]
+current POC 221
+dpb[0] poc 220
+dpb[1] poc 216
+dpb[2] poc 219
+dpb[3] poc 208
+dpb[4] poc 218
+dpb[5] poc 212
+dpbs 6
+rpl[0] poc 220 dpb[0]
+rpl[1] poc 216 dpb[1]
+rpl[2] poc 212 dpb[5]
+rpl[3] poc 208 dpb[3]
+free dpb[4]
+current POC 222
+dpb[0] poc 220
+dpb[1] poc 216
+dpb[2] poc 219
+dpb[3] poc 208
+dpb[4] poc 221
+dpb[5] poc 212
+dpbs 6
+rpl[0] poc 221 dpb[4]
+rpl[1] poc 220 dpb[0]
+rpl[2] poc 216 dpb[1]
+rpl[3] poc 212 dpb[5]
+free dpb[3]
+current POC 223
+dpb[0] poc 220
+dpb[1] poc 216
+dpb[2] poc 219
+dpb[3] poc 222
+dpb[4] poc 221
+dpb[5] poc 212
+dpbs 6
+rpl[0] poc 222 dpb[3]
+rpl[1] poc 220 dpb[0]
+rpl[2] poc 216 dpb[1]
+rpl[3] poc 212 dpb[5]
+free dpb[2]
+current POC 224
+dpb[0] poc 220
+dpb[1] poc 216
+dpb[2] poc 223
+dpb[3] poc 222
+dpb[4] poc 221
+dpb[5] poc 212
+dpbs 6
+rpl[0] poc 223 dpb[2]
+rpl[1] poc 220 dpb[0]
+rpl[2] poc 216 dpb[1]
+rpl[3] poc 212 dpb[5]
+free dpb[4]
+current POC 225
+dpb[0] poc 220
+dpb[1] poc 216
+dpb[2] poc 223
+dpb[3] poc 222
+dpb[4] poc 224
+dpb[5] poc 212
+dpbs 6
+rpl[0] poc 224 dpb[4]
+rpl[1] poc 220 dpb[0]
+rpl[2] poc 216 dpb[1]
+rpl[3] poc 212 dpb[5]
+free dpb[3]
+current POC 226
+dpb[0] poc 220
+dpb[1] poc 216
+dpb[2] poc 223
+dpb[3] poc 225
+dpb[4] poc 224
+dpb[5] poc 212
+dpbs 6
+rpl[0] poc 225 dpb[3]
+rpl[1] poc 224 dpb[4]
+rpl[2] poc 220 dpb[0]
+rpl[3] poc 216 dpb[1]
+free dpb[5]
+current POC 227
+dpb[0] poc 220
+dpb[1] poc 216
+dpb[2] poc 223
+dpb[3] poc 225
+dpb[4] poc 224
+dpb[5] poc 226
+dpbs 6
+rpl[0] poc 226 dpb[5]
+rpl[1] poc 224 dpb[4]
+rpl[2] poc 220 dpb[0]
+rpl[3] poc 216 dpb[1]
+free dpb[2]
+current POC 228
+dpb[0] poc 220
+dpb[1] poc 216
+dpb[2] poc 227
+dpb[3] poc 225
+dpb[4] poc 224
+dpb[5] poc 226
+dpbs 6
+rpl[0] poc 227 dpb[2]
+rpl[1] poc 224 dpb[4]
+rpl[2] poc 220 dpb[0]
+rpl[3] poc 216 dpb[1]
+free dpb[3]
+current POC 229
+dpb[0] poc 220
+dpb[1] poc 216
+dpb[2] poc 227
+dpb[3] poc 228
+dpb[4] poc 224
+dpb[5] poc 226
+dpbs 6
+rpl[0] poc 228 dpb[3]
+rpl[1] poc 224 dpb[4]
+rpl[2] poc 220 dpb[0]
+rpl[3] poc 216 dpb[1]
+free dpb[5]
+current POC 230
+dpb[0] poc 220
+dpb[1] poc 216
+dpb[2] poc 227
+dpb[3] poc 228
+dpb[4] poc 224
+dpb[5] poc 229
+dpbs 6
+rpl[0] poc 229 dpb[5]
+rpl[1] poc 228 dpb[3]
+rpl[2] poc 224 dpb[4]
+rpl[3] poc 220 dpb[0]
+free dpb[1]
+current POC 231
+dpb[0] poc 220
+dpb[1] poc 230
+dpb[2] poc 227
+dpb[3] poc 228
+dpb[4] poc 224
+dpb[5] poc 229
+dpbs 6
+rpl[0] poc 230 dpb[1]
+rpl[1] poc 228 dpb[3]
+rpl[2] poc 224 dpb[4]
+rpl[3] poc 220 dpb[0]
+free dpb[2]
+current POC 232
+dpb[0] poc 220
+dpb[1] poc 230
+dpb[2] poc 231
+dpb[3] poc 228
+dpb[4] poc 224
+dpb[5] poc 229
+dpbs 6
+rpl[0] poc 231 dpb[2]
+rpl[1] poc 228 dpb[3]
+rpl[2] poc 224 dpb[4]
+rpl[3] poc 220 dpb[0]
+free dpb[5]
+current POC 233
+dpb[0] poc 220
+dpb[1] poc 230
+dpb[2] poc 231
+dpb[3] poc 228
+dpb[4] poc 224
+dpb[5] poc 232
+dpbs 6
+rpl[0] poc 232 dpb[5]
+rpl[1] poc 228 dpb[3]
+rpl[2] poc 224 dpb[4]
+rpl[3] poc 220 dpb[0]
+free dpb[1]
+current POC 234
+dpb[0] poc 220
+dpb[1] poc 233
+dpb[2] poc 231
+dpb[3] poc 228
+dpb[4] poc 224
+dpb[5] poc 232
+dpbs 6
+rpl[0] poc 233 dpb[1]
+rpl[1] poc 232 dpb[5]
+rpl[2] poc 228 dpb[3]
+rpl[3] poc 224 dpb[4]
+free dpb[0]
+current POC 235
+dpb[0] poc 234
+dpb[1] poc 233
+dpb[2] poc 231
+dpb[3] poc 228
+dpb[4] poc 224
+dpb[5] poc 232
+dpbs 6
+rpl[0] poc 234 dpb[0]
+rpl[1] poc 232 dpb[5]
+rpl[2] poc 228 dpb[3]
+rpl[3] poc 224 dpb[4]
+free dpb[2]
+current POC 236
+dpb[0] poc 234
+dpb[1] poc 233
+dpb[2] poc 235
+dpb[3] poc 228
+dpb[4] poc 224
+dpb[5] poc 232
+dpbs 6
+rpl[0] poc 235 dpb[2]
+rpl[1] poc 232 dpb[5]
+rpl[2] poc 228 dpb[3]
+rpl[3] poc 224 dpb[4]
+free dpb[1]
+current POC 237
+dpb[0] poc 234
+dpb[1] poc 236
+dpb[2] poc 235
+dpb[3] poc 228
+dpb[4] poc 224
+dpb[5] poc 232
+dpbs 6
+rpl[0] poc 236 dpb[1]
+rpl[1] poc 232 dpb[5]
+rpl[2] poc 228 dpb[3]
+rpl[3] poc 224 dpb[4]
+free dpb[0]
+current POC 238
+dpb[0] poc 237
+dpb[1] poc 236
+dpb[2] poc 235
+dpb[3] poc 228
+dpb[4] poc 224
+dpb[5] poc 232
+dpbs 6
+rpl[0] poc 237 dpb[0]
+rpl[1] poc 236 dpb[1]
+rpl[2] poc 232 dpb[5]
+rpl[3] poc 228 dpb[3]
+free dpb[4]
+current POC 239
+dpb[0] poc 237
+dpb[1] poc 236
+dpb[2] poc 235
+dpb[3] poc 228
+dpb[4] poc 238
+dpb[5] poc 232
+dpbs 6
+rpl[0] poc 238 dpb[4]
+rpl[1] poc 236 dpb[1]
+rpl[2] poc 232 dpb[5]
+rpl[3] poc 228 dpb[3]
+free dpb[2]
+current POC 240
+dpb[0] poc 237
+dpb[1] poc 236
+dpb[2] poc 239
+dpb[3] poc 228
+dpb[4] poc 238
+dpb[5] poc 232
+dpbs 6
+rpl[0] poc 239 dpb[2]
+rpl[1] poc 236 dpb[1]
+rpl[2] poc 232 dpb[5]
+rpl[3] poc 228 dpb[3]
+free dpb[0]
+current POC 241
+dpb[0] poc 240
+dpb[1] poc 236
+dpb[2] poc 239
+dpb[3] poc 228
+dpb[4] poc 238
+dpb[5] poc 232
+dpbs 6
+rpl[0] poc 240 dpb[0]
+rpl[1] poc 236 dpb[1]
+rpl[2] poc 232 dpb[5]
+rpl[3] poc 228 dpb[3]
+free dpb[4]
+current POC 242
+dpb[0] poc 240
+dpb[1] poc 236
+dpb[2] poc 239
+dpb[3] poc 228
+dpb[4] poc 241
+dpb[5] poc 232
+dpbs 6
+rpl[0] poc 241 dpb[4]
+rpl[1] poc 240 dpb[0]
+rpl[2] poc 236 dpb[1]
+rpl[3] poc 232 dpb[5]
+free dpb[3]
+current POC 243
+dpb[0] poc 240
+dpb[1] poc 236
+dpb[2] poc 239
+dpb[3] poc 242
+dpb[4] poc 241
+dpb[5] poc 232
+dpbs 6
+rpl[0] poc 242 dpb[3]
+rpl[1] poc 240 dpb[0]
+rpl[2] poc 236 dpb[1]
+rpl[3] poc 232 dpb[5]
+free dpb[2]
+current POC 244
+dpb[0] poc 240
+dpb[1] poc 236
+dpb[2] poc 243
+dpb[3] poc 242
+dpb[4] poc 241
+dpb[5] poc 232
+dpbs 6
+rpl[0] poc 243 dpb[2]
+rpl[1] poc 240 dpb[0]
+rpl[2] poc 236 dpb[1]
+rpl[3] poc 232 dpb[5]
+free dpb[4]
+current POC 245
+dpb[0] poc 240
+dpb[1] poc 236
+dpb[2] poc 243
+dpb[3] poc 242
+dpb[4] poc 244
+dpb[5] poc 232
+dpbs 6
+rpl[0] poc 244 dpb[4]
+rpl[1] poc 240 dpb[0]
+rpl[2] poc 236 dpb[1]
+rpl[3] poc 232 dpb[5]
+free dpb[3]
+current POC 246
+dpb[0] poc 240
+dpb[1] poc 236
+dpb[2] poc 243
+dpb[3] poc 245
+dpb[4] poc 244
+dpb[5] poc 232
+dpbs 6
+rpl[0] poc 245 dpb[3]
+rpl[1] poc 244 dpb[4]
+rpl[2] poc 240 dpb[0]
+rpl[3] poc 236 dpb[1]
+free dpb[5]
+current POC 247
+dpb[0] poc 240
+dpb[1] poc 236
+dpb[2] poc 243
+dpb[3] poc 245
+dpb[4] poc 244
+dpb[5] poc 246
+dpbs 6
+rpl[0] poc 246 dpb[5]
+rpl[1] poc 244 dpb[4]
+rpl[2] poc 240 dpb[0]
+rpl[3] poc 236 dpb[1]
+free dpb[2]
+current POC 248
+dpb[0] poc 240
+dpb[1] poc 236
+dpb[2] poc 247
+dpb[3] poc 245
+dpb[4] poc 244
+dpb[5] poc 246
+dpbs 6
+rpl[0] poc 247 dpb[2]
+rpl[1] poc 244 dpb[4]
+rpl[2] poc 240 dpb[0]
+rpl[3] poc 236 dpb[1]
+free dpb[3]
+current POC 249
+dpb[0] poc 240
+dpb[1] poc 236
+dpb[2] poc 247
+dpb[3] poc 248
+dpb[4] poc 244
+dpb[5] poc 246
+dpbs 6
+rpl[0] poc 248 dpb[3]
+rpl[1] poc 244 dpb[4]
+rpl[2] poc 240 dpb[0]
+rpl[3] poc 236 dpb[1]
+free dpb[5]
